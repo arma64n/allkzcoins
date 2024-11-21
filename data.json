@@ -56,6 +56,34 @@
     "packaging": "Блистер"
   },
   {
+    "title": "FATIMA QOLY",
+    "title_ru": "РУКА ФАТИМЫ",
+    "circulation": 3000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-11-28",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "antique silver",
+    "diameter": 38.61,
+    "series": "Магические символы",
+    "packaging": "-"
+  },
+  {
+    "title": "ASTANA QALASYNYŃ BAS MESHITI",
+    "title_ru": "ЦЕНТРАЛЬНАЯ МЕЧЕТЬ (АСТАНА)",
+    "circulation": 1000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-11-25",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 38.61,
+    "series": "Мечети и соборы Казахстана",
+    "packaging": "-"
+  },
+  {
     "title": "SHAŃYRAǴYŃYZ SHATTYQQA TOLSYN",
     "title_ru": "МИР ВАШЕМУ ДОМУ",
     "circulation": 2000,
