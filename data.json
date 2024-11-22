@@ -1624,7 +1624,7 @@
     "packaging": "Блистер"
   },
   {
-    "title": "ТОБОЛЬСКИЙ МЫСЛИТЕЛЬ",
+    "title": "TOBYL OISHYLY",
     "title_ru": "ТОБОЛЬСКИЙ МЫСЛИТЕЛЬ",
     "circulation": 1000,
     "metal": "Ag 925",
@@ -1723,7 +1723,7 @@
   },
   {
     "title": "QURAQ KÓRPE",
-    "title_ru": "QURAQ KÓRPE",
+    "title_ru": "КУРАК КОРПЕ",
     "circulation": 1500,
     "metal": "Ag 925",
     "price": 11000,
@@ -2142,7 +2142,7 @@
     "packaging": "-"
   },
   {
-    "title": "ШАРШЫ (ОРНАМЕНТ)",
+    "title": "ШАРШЫ (ӨРНЕГІ)",
     "title_ru": "ШАРШЫ (ОРНАМЕНТ)",
     "circulation": 2000,
     "metal": "Ag 925",
@@ -2270,7 +2270,7 @@
   {
     "title": "АСТАНА. 20 ЛЕТ",
     "title_ru": "АСТАНА. 20 ЛЕТ",
-    "circulation": 500,
+    "circulation": 2000,
     "metal": "Ag 925",
     "price": 10000,
     "prod_date": "2018-06-20",
@@ -2310,7 +2310,7 @@
     "packaging": "Блистер"
   },
   {
-    "title": "ПОЧЕМУ У ЛАСТОЧКИ ХВОСТ РОЖКАМИ",
+    "title": "ҚАРЛЫҒАШТЫҢ ҚҰЙРЫҒЫ НЕГЕ АЙЫР",
     "title_ru": "ПОЧЕМУ У ЛАСТОЧКИ ХВОСТ РОЖКАМИ",
     "circulation": 500,
     "metal": "Ag 925",
@@ -2437,7 +2437,7 @@
   },
   {
     "title": "АЛТЫН ДӘН ДАЛАСЫ",
-    "title_ru": "АЛТЫН ДӘН ДАЛАСЫ",
+    "title_ru": "ЗОЛОТОЕ ЗЕРНО СТЕПИ",
     "circulation": 3000,
     "metal": "Ag 925",
     "price": 14900,
@@ -2675,7 +2675,7 @@
   },
   {
     "title": "КҮЛТЕГІН",
-    "title_ru": "КҮЛТЕГІН",
+    "title_ru": "КУЛЬТЕГИН",
     "circulation": 5000,
     "metal": "Ag 925",
     "price": 12300,
@@ -2856,7 +2856,7 @@
     "packaging": "-"
   },
   {
-    "title": "ПОДВЕСКА",
+    "title": "АЛҚА",
     "title_ru": "ПОДВЕСКА",
     "circulation": 3000,
     "metal": "Ag 925",
@@ -3304,7 +3304,7 @@
     "packaging": "-"
   },
   {
-    "title": "ТАЙКАЗАН",
+    "title": "ТАЙҚАЗАН",
     "title_ru": "ТАЙКАЗАН",
     "circulation": 100000,
     "metal": "нейзильбер",
@@ -3388,7 +3388,7 @@
     "packaging": "-"
   },
   {
-    "title": "ТАЙКАЗАН",
+    "title": "ТАЙҚАЗАН",
     "title_ru": "ТАЙКАЗАН",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -3641,7 +3641,7 @@
   },
   {
     "title": "ТӨБЕТ",
-    "title_ru": "ТӨБЕТ",
+    "title_ru": "ТОБЕТ",
     "circulation": 5000,
     "metal": "Ag 925",
     "price": 11200,
@@ -3724,7 +3724,7 @@
     "packaging": "-"
   },
   {
-    "title": "РОДИНА ЯБЛОК",
+    "title": "АЛМА ОТАНЫ",
     "title_ru": "РОДИНА ЯБЛОК",
     "circulation": 7000,
     "metal": "Ag 925",
@@ -4060,7 +4060,7 @@
     "packaging": "-"
   },
   {
-    "title": "АРХАР",
+    "title": "АРҚАР",
     "title_ru": "АРХАР",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4102,7 +4102,7 @@
     "packaging": "-"
   },
   {
-    "title": "ПЕТРОГЛИФЫ ТАМГАЛЫ (ТАМПОПЕЧАТЬ)",
+    "title": "ТАМҒАЛЫ ПЕТРОГЛИФТЕРІ (ТАМПОМӨР)",
     "title_ru": "ПЕТРОГЛИФЫ ТАМГАЛЫ (ТАМПОПЕЧАТЬ)",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4116,7 +4116,7 @@
     "packaging": "-"
   },
   {
-    "title": "ПЕТРОГЛИФЫ ТАМГАЛЫ (ПОЗОЛОТА)",
+    "title": "ТАМҒАЛЫ ПЕТРОГЛИФТЕРІ (АЛТЫНДАТУ)",
     "title_ru": "ПЕТРОГЛИФЫ ТАМГАЛЫ (ПОЗОЛОТА)",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4186,7 +4186,7 @@
     "packaging": "-"
   },
   {
-    "title": "ЛОСЬ. НАКЛАДКА",
+    "title": "БҰЛАН. БАСТЫРМА",
     "title_ru": "ЛОСЬ. НАКЛАДКА",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4340,7 +4340,7 @@
     "packaging": "-"
   },
   {
-    "title": "БАЙКОНУР",
+    "title": "БАЙҚОҢЫР",
     "title_ru": "БАЙКОНУР",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4564,7 +4564,7 @@
     "packaging": "-"
   },
   {
-    "title": "ГОЛОВА ЛОСЯ",
+    "title": "БҰЛАННЫҢ БАСЫ",
     "title_ru": "ГОЛОВА ЛОСЯ",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4620,7 +4620,7 @@
     "packaging": "-"
   },
   {
-    "title": "ИССЫКСКИЙ ВОЖДЬ",
+    "title": "ЕСІК КӨСЕМІ",
     "title_ru": "ИССЫКСКИЙ ВОЖДЬ",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -4872,7 +4872,7 @@
     "packaging": "-"
   },
   {
-    "title": "ОЛЕНИ. БЛЯШКИ",
+    "title": "БҰҒЫЛАР. ӘШЕКЕЙЛЕР",
     "title_ru": "ОЛЕНИ. БЛЯШКИ",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -5726,7 +5726,7 @@
     "packaging": "-"
   },
   {
-    "title": "ФРАГМЕНТ ДИАДЕМЫ",
+    "title": "ДИАДЕМА БӨЛІГІ",
     "title_ru": "ФРАГМЕНТ ДИАДЕМЫ",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -6034,7 +6034,7 @@
     "packaging": "-"
   },
   {
-    "title": "ПЕРСТЕНЬ",
+    "title": "ЖҮЗІК",
     "title_ru": "ПЕРСТЕНЬ",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -6328,7 +6328,7 @@
     "packaging": "-"
   },
   {
-    "title": "ВСАДНИК",
+    "title": "ШАБАНДОЗ",
     "title_ru": "ВСАДНИК",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -6482,7 +6482,7 @@
     "packaging": "-"
   },
   {
-    "title": "ГОЛОВА ТИГРА",
+    "title": "ЖОЛБАРЫСТЫҢ БАСЫ",
     "title_ru": "ГОЛОВА ТИГРА",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -6622,7 +6622,7 @@
     "packaging": "-"
   },
   {
-    "title": "ЗОЛОТОЙ ОЛЕНЬ",
+    "title": "АЛТЫН БҰҒЫ",
     "title_ru": "ЗОЛОТОЙ ОЛЕНЬ",
     "circulation": 5000,
     "metal": "Ag 925",
@@ -6889,7 +6889,7 @@
   },
   {
     "title": "ДОМБЫРА",
-    "title_ru": "ДОМБЫРА",
+    "title_ru": "ДОМБРА",
     "circulation": 3000,
     "metal": "Ag 925",
     "price": 2700,
