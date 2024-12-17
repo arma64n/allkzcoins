@@ -56,6 +56,36 @@
     "packaging": "Блистер"
   },
   {
+    "title": "TULPAR",
+    "title_ru": "TULPAR",
+    "circulation": 1000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-12-20",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "black-proof",
+    "diameter": 38.61,
+    "series": "Легенды и мифы кочевников",
+    "packaging": "-",
+    "id": 526
+  },
+  {
+    "title": "SHYMBULAQ",
+    "title_ru": "SHYMBULAQ",
+    "circulation": 1000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-12-20",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 0,
+    "series": "Природные жемчужины Казахстана",
+    "packaging": "-",
+    "id": 525
+  },
+  {
     "title": "Cu (мыс)",
     "title_ru": "Cu (медь)",
     "circulation": 1000,
