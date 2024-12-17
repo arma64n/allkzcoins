@@ -56,6 +56,21 @@
     "packaging": "Блистер"
   },
   {
+    "title": "AIÝ",
+    "title_ru": "МЕДВЕДЬ",
+    "circulation": 200,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-12-23",
+    "weight": 777.5,
+    "nominal": 5000,
+    "quality": "proof",
+    "diameter": 100,
+    "series": "Культовые животные-тотемы кочевников",
+    "packaging": "-",
+    "id": 530
+  },
+  {
     "title": "TULPAR",
     "title_ru": "TULPAR",
     "circulation": 1000,
@@ -68,7 +83,7 @@
     "diameter": 38.61,
     "series": "Легенды и мифы кочевников",
     "packaging": "-",
-    "id": 526
+    "id": 529
   },
   {
     "title": "SHYMBULAQ",
@@ -83,6 +98,51 @@
     "diameter": 0,
     "series": "Природные жемчужины Казахстана",
     "packaging": "-",
+    "id": 528
+  },
+  {
+    "title": "AIÝ",
+    "title_ru": "МЕДВЕДЬ",
+    "circulation": 3000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-12-19",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 38.61,
+    "series": "Культовые животные-тотемы кочевников",
+    "packaging": "-",
+    "id": 527
+  },
+  {
+    "title": "AIÝ",
+    "title_ru": "МЕДВЕДЬ",
+    "circulation": 3000,
+    "metal": "мельхиор",
+    "price": 0,
+    "prod_date": "2024-12-19",
+    "weight": 15,
+    "nominal": 500,
+    "quality": "proof-like",
+    "diameter": 33,
+    "series": "Культовые животные-тотемы кочевников",
+    "packaging": "-",
+    "id": 526
+  },
+  {
+    "title": "AIÝ",
+    "title_ru": "МЕДВЕДЬ",
+    "circulation": 10000,
+    "metal": "мельхиор",
+    "price": 0,
+    "prod_date": "2024-12-19",
+    "weight": 11.17,
+    "nominal": 200,
+    "quality": "brilliant uncirculated",
+    "diameter": 31,
+    "series": "Культовые животные-тотемы кочевников",
+    "packaging": "Блистер",
     "id": 525
   },
   {
