@@ -1,5 +1,33 @@
 [
   {
+    "title": "SAGADAT NURMAGAMBETOV. 100 JYL",
+    "title_ru": "САГАДАТ НУРМАГАМБЕТОВ. 100 ЛЕТ",
+    "circulation": 5000,
+    "metal": "мельхиор",
+    "price": 1000,
+    "prod_date": "2024-12-27",
+    "weight": 15,
+    "nominal": 200,
+    "quality": "brilliant uncirculated",
+    "diameter": 33,
+    "series": "Люди",
+    "packaging": "Блистер"
+  },
+  {
+    "title": "ALEXANDER THE GREAT",
+    "title_ru": "АЛЕКСАНДР МАКЕДОНСКИЙ",
+    "circulation": 2000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2024-12-27",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 38.61,
+    "series": "Великие полководцы",
+    "packaging": "-"
+  },
+  {
     "title": "AQ TUŃǴIYQ",
     "title_ru": "КУВШИНКА БЕЛАЯ",
     "circulation": 500,
