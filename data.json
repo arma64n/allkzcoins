@@ -1971,6 +1971,20 @@
   {
     "title": "JETI QAZYNA",
     "title_ru": "СЕМЬ СОКРОВИЩ",
+    "circulation": 25000,
+    "metal": "мельхиор",
+    "price": 6000,
+    "prod_date": "2020-11-04",
+    "weight": 15,
+    "nominal": 200,
+    "quality": "proof-like",
+    "diameter": 33,
+    "series": "Сокровища степи",
+    "packaging": "-"
+  },
+  {
+    "title": "JETI QAZYNA",
+    "title_ru": "СЕМЬ СОКРОВИЩ",
     "circulation": 1000,
     "metal": "Au 999",
     "price": 0,
