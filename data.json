@@ -1,5 +1,19 @@
 [
   {
+    "title": " E. BÓKETOV. 100 JYL",
+    "title_ru": "Е. БОКЕТОВ. 100 ЛЕТ",
+    "circulation": 5000,
+    "metal": "мельхиор",
+    "price": 1000,
+    "prod_date": "2025-09-22",
+    "weight": 15,
+    "nominal": 200,
+    "quality": "brilliant uncirculated",
+    "diameter": 33,
+    "series": "Люди",
+    "packaging": "Блистер"
+  },
+  {
     "title": "ҚАЗАҚСТАН КОНСТИТУЦИЯСЫНА 30 ЖЫЛ",
     "title_ru": "ҚАЗАҚСТАН КОНСТИТУЦИЯСЫНА 30 ЖЫЛ",
     "circulation": 1000,
