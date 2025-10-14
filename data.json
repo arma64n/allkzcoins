@@ -1,6 +1,20 @@
 [
   {
-    "title": " E. BÓKETOV. 100 JYL",
+    "title": "Á. MOLDAǴULOVA. 100 JYL",
+    "title_ru": "А. МОЛДАГУЛОВА. 100 ЛЕТ",
+    "circulation": 10000,
+    "metal": "мельхиор",
+    "price": 1000,
+    "prod_date": "2025-10-15",
+    "weight": 15,
+    "nominal": 200,
+    "quality": "brilliant uncirculated",
+    "diameter": 33,
+    "series": "Люди",
+    "packaging": "Блистер"
+  },
+  {
+    "title": "E. BÓKETOV. 100 JYL",
     "title_ru": "Е. БОКЕТОВ. 100 ЛЕТ",
     "circulation": 5000,
     "metal": "мельхиор",
