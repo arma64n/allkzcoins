@@ -1,10 +1,24 @@
 [
   {
+    "title": "MYSYRLYQ TANYM",
+    "title_ru": "ЕГИПЕТСКИЙ ВЗГЛЯД",
+    "circulation": 400,
+    "metal": "Ag 925/Ta 999",
+    "price": 154000,
+    "prod_date": "2025-12-03",
+    "weight": 162.2,
+    "nominal": 2000,
+    "quality": "proof",
+    "diameter": 50,
+    "series": "Идеи мироздания",
+    "packaging": "-"
+  },
+  {
     "title": "ARǴYMAQ",
     "title_ru": "ARǴYMAQ",
     "circulation": 250,
     "metal": "Ag 925",
-    "price": 697000,
+    "price": 673000,
     "prod_date": "2025-10-22",
     "weight": 777.5,
     "nominal": 5000,
@@ -487,8 +501,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 530
+    "packaging": "-"
   },
   {
     "title": "TULPAR",
@@ -502,8 +515,7 @@
     "quality": "black-proof",
     "diameter": 38.61,
     "series": "Легенды и мифы кочевников",
-    "packaging": "-",
-    "id": 529
+    "packaging": "-"
   },
   {
     "title": "SHYMBULAQ",
@@ -517,8 +529,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Природные жемчужины Казахстана",
-    "packaging": "-",
-    "id": 528
+    "packaging": "-"
   },
   {
     "title": "AIÝ",
@@ -532,8 +543,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 527
+    "packaging": "-"
   },
   {
     "title": "AIÝ",
@@ -547,8 +557,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 526
+    "packaging": "-"
   },
   {
     "title": "AIÝ",
@@ -562,8 +571,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 525
+    "packaging": "Блистер"
   },
   {
     "title": "Cu (мыс)",
@@ -577,8 +585,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Недра Казахстана",
-    "packaging": "-",
-    "id": 524
+    "packaging": "-"
   },
   {
     "title": "FATIMA QOLY",
@@ -592,8 +599,7 @@
     "quality": "antique silver",
     "diameter": 38.61,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 523
+    "packaging": "-"
   },
   {
     "title": "ASTANA QALASYNYŃ BAS MESHITI",
@@ -607,8 +613,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Мечети и соборы Казахстана",
-    "packaging": "-",
-    "id": 522
+    "packaging": "-"
   },
   {
     "title": "SHAŃYRAǴYŃYZ SHATTYQQA TOLSYN",
@@ -622,8 +627,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "От сердца к сердцу",
-    "packaging": "-",
-    "id": 521
+    "packaging": "-"
   },
   {
     "title": "KEMEL AQYSHEV. 100 JYL",
@@ -637,8 +641,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 520
+    "packaging": "Блистер"
   },
   {
     "title": "RAQYMJAN QOSHQARBAEV. 100 JYL",
@@ -652,8 +655,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 519
+    "packaging": "Блистер"
   },
   {
     "title": "WORLD PAINTING",
@@ -667,8 +669,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Изучая монеты – открывай Казахстан",
-    "packaging": "-",
-    "id": 518
+    "packaging": "-"
   },
   {
     "title": "WORLD PAINTING",
@@ -682,8 +683,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Изучая монеты – открывай Казахстан",
-    "packaging": "Блистер",
-    "id": 517
+    "packaging": "Блистер"
   },
   {
     "title": "QANYSH SÁTBAEV. 125 JYL",
@@ -697,8 +697,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Люди",
-    "packaging": "-",
-    "id": 516
+    "packaging": "-"
   },
   {
     "title": "QANYSH SÁTBAEV. 125 JYL",
@@ -712,8 +711,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 515
+    "packaging": "Блистер"
   },
   {
     "title": "10 ЛЕТ ЕАЭС",
@@ -727,8 +725,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Евразийский экономический союз",
-    "packaging": "-",
-    "id": 514
+    "packaging": "-"
   },
   {
     "title": "UEFA EURO 2024",
@@ -742,8 +739,7 @@
     "quality": "proof",
     "diameter": 32,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 513
+    "packaging": "-"
   },
   {
     "title": "AI•KÚN",
@@ -757,8 +753,7 @@
     "quality": "black-proof",
     "diameter": 38.61,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 512
+    "packaging": "-"
   },
   {
     "title": "TÚIE",
@@ -772,8 +767,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 511
+    "packaging": "-"
   },
   {
     "title": "BALQASH ALABUǴASY",
@@ -787,8 +781,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 510
+    "packaging": "-"
   },
   {
     "title": "TÚIE",
@@ -802,8 +795,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 509
+    "packaging": "-"
   },
   {
     "title": "TÚIE",
@@ -817,8 +809,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 508
+    "packaging": "-"
   },
   {
     "title": "TÚIE",
@@ -832,8 +823,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 507
+    "packaging": "Блистер"
   },
   {
     "title": "BALQASH ALABUǴASY",
@@ -847,8 +837,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Блистер",
-    "id": 506
+    "packaging": "Блистер"
   },
   {
     "title": "KELOĞLAN",
@@ -862,8 +851,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 505
+    "packaging": "-"
   },
   {
     "title": "JAR-JAR",
@@ -877,8 +865,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 504
+    "packaging": "-"
   },
   {
     "title": "JAR-JAR",
@@ -892,8 +879,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 503
+    "packaging": "Блистер"
   },
   {
     "title": "JAR-JAR",
@@ -907,8 +893,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Ролл 20 шт.",
-    "id": 502
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "KELOĞLAN",
@@ -922,8 +907,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Сказки народа Казахстана",
-    "packaging": "Блистер",
-    "id": 501
+    "packaging": "Блистер"
   },
   {
     "title": "KELOĞLAN",
@@ -937,8 +921,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "Ролл 20 шт.",
-    "id": 500
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "ӘЛ-ФАРАБИ",
@@ -952,8 +935,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 499
+    "packaging": "-"
   },
   {
     "title": "ҚҰРМАНҒАЗЫ",
@@ -967,8 +949,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 498
+    "packaging": "-"
   },
   {
     "title": "СҮЙІНБАЙ",
@@ -982,8 +963,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 497
+    "packaging": "-"
   },
   {
     "title": "ӘЛ-ФАРАБИ",
@@ -997,8 +977,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "Ролл 20 шт.",
-    "id": 496
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "ҚҰРМАНҒАЗЫ",
@@ -1012,8 +991,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "Ролл 20 шт.",
-    "id": 495
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "СҮЙІНБАЙ",
@@ -1027,8 +1005,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "Ролл 20 шт.",
-    "id": 494
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "TEŃGEGE 30 JYL",
@@ -1042,8 +1019,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 493
+    "packaging": "-"
   },
   {
     "title": "TEŃGEGE 30 JYL",
@@ -1057,8 +1033,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 492
+    "packaging": "-"
   },
   {
     "title": "TÁŃIRLIK TANYM",
@@ -1072,8 +1047,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Идеи мироздания",
-    "packaging": "-",
-    "id": 491
+    "packaging": "-"
   },
   {
     "title": "QORQYT ATA",
@@ -1087,8 +1061,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 490
+    "packaging": "-"
   },
   {
     "title": "TEMIRBEK JÚRGENOV. 125 JYL",
@@ -1102,8 +1075,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 489
+    "packaging": "Блистер"
   },
   {
     "title": "ASTANA. 25 JYL",
@@ -1117,8 +1089,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Юбилейные даты Астаны",
-    "packaging": "Блистер",
-    "id": 488
+    "packaging": "Блистер"
   },
   {
     "title": "BUǴY",
@@ -1132,8 +1103,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 487
+    "packaging": "-"
   },
   {
     "title": "BÚRKIT",
@@ -1147,8 +1117,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 486
+    "packaging": "-"
   },
   {
     "title": "BÚRKIT",
@@ -1162,8 +1131,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 485
+    "packaging": "-"
   },
   {
     "title": "BÚRKIT",
@@ -1177,8 +1145,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 484
+    "packaging": "-"
   },
   {
     "title": "BÚRKIT",
@@ -1192,8 +1159,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 483
+    "packaging": "Блистер"
   },
   {
     "title": "KÓSHPENDI SADAǴY",
@@ -1207,8 +1173,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 482
+    "packaging": "-"
   },
   {
     "title": "TOǴYZQUMALAQ",
@@ -1222,8 +1187,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 481
+    "packaging": "-"
   },
   {
     "title": "TOǴYZQUMALAQ",
@@ -1237,8 +1201,7 @@
     "quality": "black-proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 480
+    "packaging": "-"
   },
   {
     "title": "TOǴYZQUMALAQ",
@@ -1252,8 +1215,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 479
+    "packaging": "Блистер"
   },
   {
     "title": "TOǴYZQUMALAQ",
@@ -1267,8 +1229,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Ролл 20 шт.",
-    "id": 478
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "КАЗАХСТАН. ООН. 30 ЛЕТ",
@@ -1282,8 +1243,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "События",
-    "packaging": "-",
-    "id": 477
+    "packaging": "-"
   },
   {
     "title": "30 ЛЕТ СВМДА",
@@ -1297,8 +1257,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "События",
-    "packaging": "-",
-    "id": 476
+    "packaging": "-"
   },
   {
     "title": "КАЗАХСТАН-РОССИЯ. 30 ЛЕТ ДИПЛОМАТИЧЕСКИМ ОТНОШЕНИЯМ",
@@ -1312,8 +1271,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "События",
-    "packaging": "-",
-    "id": 475
+    "packaging": "-"
   },
   {
     "title": "КАЗАХСТАН-КИТАЙ. 30 ЛЕТ ДИПЛОМАТИЧЕСКИМ ОТНОШЕНИЯМ",
@@ -1327,8 +1285,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "События",
-    "packaging": "-",
-    "id": 474
+    "packaging": "-"
   },
   {
     "title": "FIFA WORLD CUP QATAR 2022",
@@ -1342,8 +1299,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 473
+    "packaging": "-"
   },
   {
     "title": "Street art. BATYR BEINESI",
@@ -1357,8 +1313,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Изучая монеты – открывай Казахстан",
-    "packaging": "-",
-    "id": 472
+    "packaging": "-"
   },
   {
     "title": "SALIÝT-1",
@@ -1372,8 +1327,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "Ролл 20 шт.",
-    "id": 471
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "MUHTAR ÁÝEZOV. 125 JYL",
@@ -1387,8 +1341,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Люди",
-    "packaging": "-",
-    "id": 470
+    "packaging": "-"
   },
   {
     "title": "MUHTAR ÁÝEZOV. 125 JYL",
@@ -1402,8 +1355,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 469
+    "packaging": "Блистер"
   },
   {
     "title": "AHMET BAITURSYNULY. 150 JYL",
@@ -1417,8 +1369,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Люди",
-    "packaging": "-",
-    "id": 468
+    "packaging": "-"
   },
   {
     "title": "AHMET BAITURSYNULY. 150 JYL",
@@ -1432,8 +1383,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 467
+    "packaging": "Блистер"
   },
   {
     "title": "JAMBYL. 175 JYL",
@@ -1447,8 +1397,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 466
+    "packaging": "Блистер"
   },
   {
     "title": "MÁNSHÚK MÁMETOVA. 100 JYL",
@@ -1462,8 +1411,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 465
+    "packaging": "Блистер"
   },
   {
     "title": "TALǴAT BIGELDINOV. 100 JYL",
@@ -1477,8 +1425,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 464
+    "packaging": "Блистер"
   },
   {
     "title": "TILASHAR",
@@ -1492,8 +1439,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 463
+    "packaging": "-"
   },
   {
     "title": "TILASHAR",
@@ -1507,8 +1453,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 462
+    "packaging": "Блистер"
   },
   {
     "title": "TILASHAR",
@@ -1522,8 +1467,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Ролл 20 шт.",
-    "id": 461
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "ROZA BAǴLANOVA. 100 JYL",
@@ -1537,8 +1481,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 460
+    "packaging": "Блистер"
   },
   {
     "title": "QULAN",
@@ -1552,8 +1495,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 459
+    "packaging": "-"
   },
   {
     "title": "QULAN",
@@ -1567,8 +1509,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Блистер",
-    "id": 458
+    "packaging": "Блистер"
   },
   {
     "title": "QULAN",
@@ -1582,8 +1523,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Ролл 50 шт.",
-    "id": 457
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "SEMEI IADROLYQ POLIGONYNYŃ JABYLǴANYNA 30 JYL",
@@ -1597,8 +1537,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "События",
-    "packaging": "-",
-    "id": 456
+    "packaging": "-"
   },
   {
     "title": "SEMEI IADROLYQ POLIGONYNYŃ JABYLǴANYNA 30 JYL",
@@ -1612,8 +1551,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "Ролл 20 шт.",
-    "id": 455
+    "packaging": "Ролл 20 шт."
   },
   {
     "title": "M. KENBAEV «ÁŃGIME»",
@@ -1627,8 +1565,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Изобразительное искусство Казахстана",
-    "packaging": "-",
-    "id": 454
+    "packaging": "-"
   },
   {
     "title": "QAJYMUQAN MUŃAITPASULY. 150 JYL",
@@ -1642,8 +1579,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 453
+    "packaging": "Блистер"
   },
   {
     "title": "KIIZ ÚI",
@@ -1657,8 +1593,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 452
+    "packaging": "-"
   },
   {
     "title": "KIIZ ÚI",
@@ -1672,8 +1607,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 451
+    "packaging": "-"
   },
   {
     "title": "SALIÝT-1",
@@ -1687,8 +1621,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 450
+    "packaging": "-"
   },
   {
     "title": "SALIÝT-1",
@@ -1702,8 +1635,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Космос",
-    "packaging": "-",
-    "id": 449
+    "packaging": "-"
   },
   {
     "title": "ÓMIR SHEJIRESI",
@@ -1717,8 +1649,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 448
+    "packaging": "-"
   },
   {
     "title": "ÓMIR SHEJIRESI",
@@ -1732,8 +1663,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 447
+    "packaging": "-"
   },
   {
     "title": "AQQÝ",
@@ -1747,8 +1677,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 446
+    "packaging": "-"
   },
   {
     "title": "AQQÝ",
@@ -1762,8 +1691,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 445
+    "packaging": "-"
   },
   {
     "title": "AQQÝ",
@@ -1777,8 +1705,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 444
+    "packaging": "-"
   },
   {
     "title": "AQQÝ",
@@ -1792,8 +1719,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 443
+    "packaging": "Блистер"
   },
   {
     "title": "ГОД ТИГРА",
@@ -1807,8 +1733,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 442
+    "packaging": "-"
   },
   {
     "title": "ГОД ТИГРА",
@@ -1822,8 +1747,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 441
+    "packaging": "-"
   },
   {
     "title": "TORAŃǴY",
@@ -1837,8 +1761,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 440
+    "packaging": "-"
   },
   {
     "title": "TORAŃǴY",
@@ -1852,8 +1775,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Блистер",
-    "id": 439
+    "packaging": "Блистер"
   },
   {
     "title": "TORAŃǴY",
@@ -1867,8 +1789,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Ролл 50 шт.",
-    "id": 438
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "JUBAN MOLDAGALIEV.100 JYL",
@@ -1882,8 +1803,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 437
+    "packaging": "Блистер"
   },
   {
     "title": "QAZAQSTANNYŃ ASTANASY – NUR-SULTAN",
@@ -1897,8 +1817,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "События",
-    "packaging": "-",
-    "id": 436
+    "packaging": "-"
   },
   {
     "title": "MEDEÝ",
@@ -1912,8 +1831,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 435
+    "packaging": "-"
   },
   {
     "title": "JETI QAZYNA",
@@ -1927,8 +1845,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 434
+    "packaging": "-"
   },
   {
     "title": "JETI QAZYNA",
@@ -1942,8 +1859,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 433
+    "packaging": "-"
   },
   {
     "title": "SÚNDET TOI",
@@ -1957,8 +1873,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 432
+    "packaging": "-"
   },
   {
     "title": "SÚNDET TOI",
@@ -1972,8 +1887,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 431
+    "packaging": "Блистер"
   },
   {
     "title": "SÚNDET TOI",
@@ -1987,8 +1901,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Ролл 50 шт.",
-    "id": 430
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "BELKA. STRELKA",
@@ -2002,8 +1915,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 429
+    "packaging": "-"
   },
   {
     "title": "BUǴY",
@@ -2017,8 +1929,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 428
+    "packaging": "-"
   },
   {
     "title": "BUǴY",
@@ -2032,8 +1943,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 427
+    "packaging": "-"
   },
   {
     "title": "BUǴY",
@@ -2047,8 +1957,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 426
+    "packaging": "Блистер"
   },
   {
     "title": "BELKA. STRELKA",
@@ -2062,8 +1971,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Космос",
-    "packaging": "-",
-    "id": 425
+    "packaging": "-"
   },
   {
     "title": "BELKA. STRELKA",
@@ -2077,8 +1985,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "Ролл 50 шт.",
-    "id": 424
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "JETI QAZYNA",
@@ -2106,8 +2013,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 423
+    "packaging": "-"
   },
   {
     "title": "ГОД БЫКА",
@@ -2121,8 +2027,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 422
+    "packaging": "-"
   },
   {
     "title": "ГОД БЫКА",
@@ -2136,8 +2041,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 421
+    "packaging": "-"
   },
   {
     "title": "25-ЛЕТ КОНСТИТУЦИИ КАЗАХСТАНА",
@@ -2151,8 +2055,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "События",
-    "packaging": "-",
-    "id": 420
+    "packaging": "-"
   },
   {
     "title": "25-ЛЕТ КОНСТИТУЦИИ КАЗАХСТАНА",
@@ -2166,8 +2069,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "Ролл 50 шт.",
-    "id": 419
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "АССАМБЛЕЯ НАРОДА КАЗАХСТАНА. 25 ЛЕТ",
@@ -2181,8 +2083,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "События",
-    "packaging": "-",
-    "id": 418
+    "packaging": "-"
   },
   {
     "title": "АССАМБЛЕЯ НАРОДА КАЗАХСТАНА. 25 ЛЕТ",
@@ -2196,8 +2097,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "Ролл 50 шт.",
-    "id": 417
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "АБАЙ. 175 ЛЕТ",
@@ -2211,8 +2111,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Люди",
-    "packaging": "-",
-    "id": 416
+    "packaging": "-"
   },
   {
     "title": "АБАЙ. 175 ЛЕТ",
@@ -2226,8 +2125,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 415
+    "packaging": "Блистер"
   },
   {
     "title": "АБАЙ. 175 ЛЕТ",
@@ -2241,8 +2139,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 414
+    "packaging": "-"
   },
   {
     "title": "75 ЛЕТ ПОБЕДЕ",
@@ -2256,8 +2153,7 @@
     "quality": "black-proof",
     "diameter": 37,
     "series": "События",
-    "packaging": "-",
-    "id": 413
+    "packaging": "-"
   },
   {
     "title": "75 ЛЕТ ПОБЕДЕ",
@@ -2271,8 +2167,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 33,
     "series": "События",
-    "packaging": "Блистер",
-    "id": 412
+    "packaging": "Блистер"
   },
   {
     "title": "75 ЛЕТ ПОБЕДЕ",
@@ -2286,8 +2181,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "Ролл 50 шт.",
-    "id": 411
+    "packaging": "Ролл 50 шт."
   },
   {
     "title": "QYZ UZATÝ",
@@ -2301,8 +2195,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 410
+    "packaging": "Блистер"
   },
   {
     "title": "TOBYL OISHYLY",
@@ -2316,8 +2209,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 409
+    "packaging": "-"
   },
   {
     "title": "QYZ UZATÝ",
@@ -2331,8 +2223,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 408
+    "packaging": "-"
   },
   {
     "title": "A. KASTEEV «BÚRKITSHI»",
@@ -2346,8 +2237,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Изобразительное искусство Казахстана",
-    "packaging": "-",
-    "id": 407
+    "packaging": "-"
   },
   {
     "title": "С. СЕЙФУЛЛИН. 125 ЛЕТ",
@@ -2361,8 +2251,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 406
+    "packaging": "Блистер"
   },
   {
     "title": "Б. МАЙЛИН. 125 ЛЕТ",
@@ -2376,8 +2265,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 405
+    "packaging": "Блистер"
   },
   {
     "title": "И. ЖАНСУГУРОВ. 125 ЛЕТ",
@@ -2391,8 +2279,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 404
+    "packaging": "Блистер"
   },
   {
     "title": "Т. РЫСКУЛОВ. 125 ЛЕТ",
@@ -2406,8 +2293,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 403
+    "packaging": "Блистер"
   },
   {
     "title": "QURAQ KÓRPE",
@@ -2421,8 +2307,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 402
+    "packaging": "-"
   },
   {
     "title": "KΌBELEK. LASIOMMATA MAERA",
@@ -2436,8 +2321,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 401
+    "packaging": "-"
   },
   {
     "title": "KΌBELEK. LASIOMMATA MAERA",
@@ -2451,8 +2335,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Блистер",
-    "id": 400
+    "packaging": "Блистер"
   },
   {
     "title": "ÚKI",
@@ -2466,8 +2349,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 399
+    "packaging": "-"
   },
   {
     "title": "ÚKI",
@@ -2481,8 +2363,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 398
+    "packaging": "-"
   },
   {
     "title": "ÚKI",
@@ -2496,8 +2377,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 397
+    "packaging": "-"
   },
   {
     "title": "ÚKI",
@@ -2511,8 +2391,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 396
+    "packaging": "Блистер"
   },
   {
     "title": "ГОД МЫШИ",
@@ -2526,8 +2405,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 395
+    "packaging": "-"
   },
   {
     "title": "ГОД МЫШИ",
@@ -2541,8 +2419,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 394
+    "packaging": "-"
   },
   {
     "title": "ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ СОЮЗ. 5 ЛЕТ",
@@ -2556,8 +2433,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Евразийский экономический союз",
-    "packaging": "-",
-    "id": 393
+    "packaging": "-"
   },
   {
     "title": "ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ СОЮЗ. 5 ЛЕТ",
@@ -2571,8 +2447,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Евразийский экономический союз",
-    "packaging": "-",
-    "id": 392
+    "packaging": "-"
   },
   {
     "title": "ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ СОЮЗ. 5 ЛЕТ",
@@ -2586,8 +2461,7 @@
     "quality": "proof",
     "diameter": 32,
     "series": "Евразийский экономический союз",
-    "packaging": "-",
-    "id": 391
+    "packaging": "-"
   },
   {
     "title": "РЫБЫ",
@@ -2601,8 +2475,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 390
+    "packaging": "-"
   },
   {
     "title": "СКОРПИОН",
@@ -2616,8 +2489,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 389
+    "packaging": "-"
   },
   {
     "title": "РАК",
@@ -2631,8 +2503,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 388
+    "packaging": "-"
   },
   {
     "title": "ВОДОЛЕЙ",
@@ -2646,8 +2517,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 387
+    "packaging": "-"
   },
   {
     "title": "ВЕСЫ",
@@ -2661,8 +2531,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 386
+    "packaging": "-"
   },
   {
     "title": "БЛИЗНЕЦЫ",
@@ -2676,8 +2545,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 385
+    "packaging": "-"
   },
   {
     "title": "ДЕВА",
@@ -2691,8 +2559,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 384
+    "packaging": "-"
   },
   {
     "title": "ТЕЛЕЦ",
@@ -2706,8 +2573,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 383
+    "packaging": "-"
   },
   {
     "title": "КОЗЕРОГ",
@@ -2721,8 +2587,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 382
+    "packaging": "-"
   },
   {
     "title": "СТРЕЛЕЦ",
@@ -2736,8 +2601,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 381
+    "packaging": "-"
   },
   {
     "title": "ЛЕВ",
@@ -2751,8 +2615,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 380
+    "packaging": "-"
   },
   {
     "title": "ОВЕН",
@@ -2766,8 +2629,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаки зодиака",
-    "packaging": "-",
-    "id": 379
+    "packaging": "-"
   },
   {
     "title": "C. АЙТБАЕВ «БАҚЫТ»",
@@ -2781,8 +2643,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Изобразительное искусство Казахстана",
-    "packaging": "-",
-    "id": 378
+    "packaging": "-"
   },
   {
     "title": "KÓKBÓRI",
@@ -2796,8 +2657,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 377
+    "packaging": "-"
   },
   {
     "title": "KÓKBÓRI",
@@ -2811,8 +2671,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 376
+    "packaging": "-"
   },
   {
     "title": "KÓKBÓRI",
@@ -2826,8 +2685,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "-",
-    "id": 375
+    "packaging": "-"
   },
   {
     "title": "KÓKBÓRI",
@@ -2841,8 +2699,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Культовые животные-тотемы кочевников",
-    "packaging": "Блистер",
-    "id": 374
+    "packaging": "Блистер"
   },
   {
     "title": "ГОД КАБАНА",
@@ -2856,8 +2713,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 373
+    "packaging": "-"
   },
   {
     "title": "ШАРШЫ (ӨРНЕГІ)",
@@ -2871,8 +2727,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 372
+    "packaging": "-"
   },
   {
     "title": "ГОД КАБАНА",
@@ -2886,8 +2741,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 371
+    "packaging": "-"
   },
   {
     "title": "БҰЛҒЫН",
@@ -2901,8 +2755,7 @@
     "quality": "proof-like",
     "diameter": 33,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 370
+    "packaging": "-"
   },
   {
     "title": "БҰЛҒЫН",
@@ -2916,8 +2769,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Флора и фауна Казахстана",
-    "packaging": "Блистер",
-    "id": 369
+    "packaging": "Блистер"
   },
   {
     "title": "25 ЛЕТ ТЕНГЕ",
@@ -2931,8 +2783,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "Блистер",
-    "id": 368
+    "packaging": "Блистер"
   },
   {
     "title": "25 ЛЕТ ТЕНГЕ",
@@ -2946,8 +2797,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 367
+    "packaging": "-"
   },
   {
     "title": "25 ЛЕТ ТЕНГЕ",
@@ -2961,8 +2811,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 366
+    "packaging": "-"
   },
   {
     "title": "СҮЙІНШІ",
@@ -2976,8 +2825,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 365
+    "packaging": "-"
   },
   {
     "title": "СҮЙІНШІ",
@@ -2991,8 +2839,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 364
+    "packaging": "Блистер"
   },
   {
     "title": "АСТАНА. 20 ЛЕТ",
@@ -3006,8 +2853,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Юбилейные даты Астаны",
-    "packaging": "-",
-    "id": 363
+    "packaging": "-"
   },
   {
     "title": "АСТАНА. 20 ЛЕТ",
@@ -3021,8 +2867,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Юбилейные даты Астаны",
-    "packaging": "-",
-    "id": 362
+    "packaging": "-"
   },
   {
     "title": "АСТАНА. 20 ЛЕТ",
@@ -3036,8 +2881,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Юбилейные даты Астаны",
-    "packaging": "Блистер",
-    "id": 361
+    "packaging": "Блистер"
   },
   {
     "title": "ҚАРЛЫҒАШТЫҢ ҚҰЙРЫҒЫ НЕГЕ АЙЫР",
@@ -3051,8 +2895,7 @@
     "quality": "proof",
     "diameter": 30,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 360
+    "packaging": "-"
   },
   {
     "title": "ТУМАР",
@@ -3066,8 +2909,7 @@
     "quality": "antique silver",
     "diameter": 40,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 359
+    "packaging": "-"
   },
   {
     "title": "ШАШУ",
@@ -3081,8 +2923,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 358
+    "packaging": "-"
   },
   {
     "title": "ШАШУ",
@@ -3096,8 +2937,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "Блистер",
-    "id": 357
+    "packaging": "Блистер"
   },
   {
     "title": "ДОМБЫРА",
@@ -3111,8 +2951,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 356
+    "packaging": "-"
   },
   {
     "title": "АЙША ГАЛИМБАЕВА. 100 ЛЕТ",
@@ -3126,8 +2965,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "Блистер",
-    "id": 355
+    "packaging": "Блистер"
   },
   {
     "title": "Ы. АЛТЫНСАРИН",
@@ -3141,8 +2979,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Изобразительное искусство Казахстана",
-    "packaging": "-",
-    "id": 354
+    "packaging": "-"
   },
   {
     "title": "БРЕМЕНСКИЕ МУЗЫКАНТЫ",
@@ -3156,8 +2993,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 353
+    "packaging": "-"
   },
   {
     "title": "БРЕМЕНСКИЕ МУЗЫКАНТЫ",
@@ -3171,8 +3007,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "Блистер",
-    "id": 352
+    "packaging": "Блистер"
   },
   {
     "title": "АЛТЫН ДӘН ДАЛАСЫ",
@@ -3186,8 +3021,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 351
+    "packaging": "-"
   },
   {
     "title": "ТЮЛЬПАН ГРЕЙГА",
@@ -3201,8 +3035,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 350
+    "packaging": "-"
   },
   {
     "title": "МОНЕТА БЛАГОПОЛУЧИЯ",
@@ -3216,8 +3049,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 349
+    "packaging": "-"
   },
   {
     "title": "ГОД СОБАКИ",
@@ -3231,8 +3063,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 348
+    "packaging": "-"
   },
   {
     "title": "АБЫЛАЙ ХАН",
@@ -3246,8 +3077,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 347
+    "packaging": "-"
   },
   {
     "title": "АБЫЛАЙ ХАН",
@@ -3261,8 +3091,7 @@
     "quality": "brilliant uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "Блистер",
-    "id": 346
+    "packaging": "Блистер"
   },
   {
     "title": "ГОД СОБАКИ",
@@ -3276,8 +3105,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 345
+    "packaging": "-"
   },
   {
     "title": "25 ЛЕТ НАЦИОНАЛЬНОМУ ОЛИМПИЙСКОМУ КОМИТЕТУ РК",
@@ -3291,8 +3119,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 344
+    "packaging": "-"
   },
   {
     "title": "ҚАЗАҚ ВАЛЬСІ",
@@ -3306,8 +3133,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Изобразительное искусство Казахстана",
-    "packaging": "-",
-    "id": 343
+    "packaging": "-"
   },
   {
     "title": "С ДНЕМ РОЖДЕНИЯ",
@@ -3321,8 +3147,7 @@
     "quality": "proof",
     "diameter": 45,
     "series": "Монета-подарок",
-    "packaging": "-",
-    "id": 342
+    "packaging": "-"
   },
   {
     "title": "МАХАББАТ",
@@ -3336,8 +3161,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "От сердца к сердцу",
-    "packaging": "-",
-    "id": 341
+    "packaging": "-"
   },
   {
     "title": "ПЕТРОПАВЛОВСК",
@@ -3351,8 +3175,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 340
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 25 ЛЕТ",
@@ -3366,8 +3189,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 339
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 25 ЛЕТ",
@@ -3381,8 +3203,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 338
+    "packaging": "-"
   },
   {
     "title": "ҚЫРҚЫНАН ШЫҒАРУ",
@@ -3396,8 +3217,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 337
+    "packaging": "-"
   },
   {
     "title": "КЫРКЫНАН ШЫГАРУ",
@@ -3411,8 +3231,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 336
+    "packaging": "-"
   },
   {
     "title": "ТОКТАГАЛИ ЖАНГЕЛЬДИН. 100 ЛЕТ",
@@ -3426,8 +3245,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 335
+    "packaging": "-"
   },
   {
     "title": "КҮЛТЕГІН",
@@ -3441,8 +3259,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 334
+    "packaging": "-"
   },
   {
     "title": "ХАМИТ ЕРГАЛИ. 100 ЛЕТ",
@@ -3456,8 +3273,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 333
+    "packaging": "-"
   },
   {
     "title": "ЛЕГЕНДА О ТАНГУНЕ",
@@ -3471,8 +3287,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 332
+    "packaging": "-"
   },
   {
     "title": "АЛИХАН БУКЕЙХАНОВ. 150 ЛЕТ",
@@ -3486,8 +3301,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 331
+    "packaging": "-"
   },
   {
     "title": "ЛЕГЕНДА О ТАНГУНЕ",
@@ -3501,8 +3315,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 330
+    "packaging": "-"
   },
   {
     "title": "САКСАУЛ",
@@ -3516,8 +3329,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 329
+    "packaging": "-"
   },
   {
     "title": "АБУЛХАИР ХАН",
@@ -3531,8 +3343,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 328
+    "packaging": "-"
   },
   {
     "title": "АБУЛХАИР ХАН",
@@ -3546,8 +3357,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 327
+    "packaging": "-"
   },
   {
     "title": "ГОД ПЕТУХА",
@@ -3561,8 +3371,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 326
+    "packaging": "-"
   },
   {
     "title": "ГОД ПЕТУХА",
@@ -3576,8 +3385,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 325
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2016. ХУДОЖЕСТВЕННАЯ ГИМНАСТИКА",
@@ -3591,8 +3399,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 324
+    "packaging": "-"
   },
   {
     "title": "ЧЕМПИОНАТ МИРА ПО БОКСУ СРЕДИ ЖЕНЩИН. АСТАНА 2016",
@@ -3606,8 +3413,7 @@
     "quality": "proof",
     "diameter": 30,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 323
+    "packaging": "-"
   },
   {
     "title": "ТАҒА",
@@ -3621,8 +3427,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Магические символы",
-    "packaging": "-",
-    "id": 322
+    "packaging": "-"
   },
   {
     "title": "АЛҚА",
@@ -3636,8 +3441,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 321
+    "packaging": "-"
   },
   {
     "title": "ХОДЖА НАСРЕДДИН",
@@ -3651,8 +3455,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 320
+    "packaging": "-"
   },
   {
     "title": "ВЕНЕРА-10",
@@ -3666,8 +3469,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 319
+    "packaging": "-"
   },
   {
     "title": "ЕРМУХАН БЕКМАХАНОВ. 100 ЛЕТ",
@@ -3681,8 +3483,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 318
+    "packaging": "-"
   },
   {
     "title": "ЖУМАБЕК ТАШЕНЕВ. 100 ЛЕТ",
@@ -3696,8 +3497,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 317
+    "packaging": "-"
   },
   {
     "title": "ИЛЬЯС ЕСЕНБЕРЛИН. 100 ЛЕТ",
@@ -3711,8 +3511,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 316
+    "packaging": "-"
   },
   {
     "title": "ВЕНЕРА-10",
@@ -3726,8 +3525,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 315
+    "packaging": "-"
   },
   {
     "title": "ХОДЖА НАСРЕДДИН",
@@ -3741,8 +3539,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 314
+    "packaging": "-"
   },
   {
     "title": "С НОВЫМ ГОДОМ",
@@ -3756,8 +3553,7 @@
     "quality": "proof",
     "diameter": 45,
     "series": "Монета-подарок",
-    "packaging": "-",
-    "id": 313
+    "packaging": "-"
   },
   {
     "title": "ТАЗЫ",
@@ -3771,8 +3567,7 @@
     "quality": "proof",
     "diameter": 45,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 312
+    "packaging": "-"
   },
   {
     "title": "БАТА",
@@ -3786,8 +3581,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 311
+    "packaging": "-"
   },
   {
     "title": "УСТЮРТСКИЙ МУФЛОН",
@@ -3801,8 +3595,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 310
+    "packaging": "-"
   },
   {
     "title": "БАТА",
@@ -3816,8 +3609,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 309
+    "packaging": "-"
   },
   {
     "title": "УСТЮРТСКИЙ МУФЛОН",
@@ -3831,8 +3623,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 308
+    "packaging": "-"
   },
   {
     "title": "М. ГАБДУЛЛИН. 100 ЛЕТ",
@@ -3846,8 +3637,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Люди",
-    "packaging": "-",
-    "id": 307
+    "packaging": "-"
   },
   {
     "title": "ЕВРАЗИЙСКИЙ ЭКОНОМИЧЕСКИЙ СОЮЗ",
@@ -3861,8 +3651,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Евразийский экономический союз",
-    "packaging": "-",
-    "id": 306
+    "packaging": "-"
   },
   {
     "title": "МАЛИК ГАБДУЛЛИН. 100 ЛЕТ",
@@ -3876,8 +3665,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 305
+    "packaging": "-"
   },
   {
     "title": "ГОД ОБЕЗЬЯНЫ",
@@ -3891,8 +3679,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 304
+    "packaging": "-"
   },
   {
     "title": "РАЙСКАЯ МУХОЛОВКА",
@@ -3906,8 +3693,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 303
+    "packaging": "-"
   },
   {
     "title": "ГОД ОБЕЗЬЯНЫ",
@@ -3921,8 +3707,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 302
+    "packaging": "-"
   },
   {
     "title": "АСТАНА",
@@ -3936,8 +3721,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 301
+    "packaging": "-"
   },
   {
     "title": "АЛМАТЫ",
@@ -3951,8 +3735,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 300
+    "packaging": "-"
   },
   {
     "title": "ШЫМКЕНТ",
@@ -3966,8 +3749,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 299
+    "packaging": "-"
   },
   {
     "title": "КОКЧЕТАВ",
@@ -3981,8 +3763,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 298
+    "packaging": "-"
   },
   {
     "title": "АБАЙ",
@@ -3996,8 +3777,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 297
+    "packaging": "-"
   },
   {
     "title": "АБАЙ",
@@ -4011,8 +3791,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 296
+    "packaging": "-"
   },
   {
     "title": "АССАМБЛЕЕ НАРОДА КАЗАХСТАНА 20 ЛЕТ",
@@ -4026,8 +3805,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
-    "packaging": "-",
-    "id": 295
+    "packaging": "-"
   },
   {
     "title": "АССАМБЛЕЕ НАРОДА КАЗАХСТАНА 20 ЛЕТ",
@@ -4041,8 +3819,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 294
+    "packaging": "-"
   },
   {
     "title": "КОНСТИТУЦИИ КАЗАХСТАНА 20 ЛЕТ",
@@ -4056,8 +3833,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 293
+    "packaging": "-"
   },
   {
     "title": "БУРАН",
@@ -4071,8 +3847,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 292
+    "packaging": "-"
   },
   {
     "title": "КЫЗЫЛОРДА",
@@ -4086,8 +3861,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 291
+    "packaging": "-"
   },
   {
     "title": "УРАЛЬСК",
@@ -4101,8 +3875,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 290
+    "packaging": "-"
   },
   {
     "title": "ТАЙҚАЗАН",
@@ -4116,8 +3889,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 289
+    "packaging": "-"
   },
   {
     "title": "550 ЛЕТ КАЗАХСКОМУ ХАНСТВУ",
@@ -4131,8 +3903,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
-    "packaging": "-",
-    "id": 288
+    "packaging": "-"
   },
   {
     "title": "550 ЛЕТ КАЗАХСКОМУ ХАНСТВУ",
@@ -4146,8 +3917,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 287
+    "packaging": "-"
   },
   {
     "title": "ҰЛЫ ЖЕҢІСКЕ 70 ЖЫЛ",
@@ -4161,8 +3931,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
-    "packaging": "-",
-    "id": 286
+    "packaging": "-"
   },
   {
     "title": "ҰЛЫ ЖЕҢІСКЕ 70 ЖЫЛ",
@@ -4176,8 +3945,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 285
+    "packaging": "-"
   },
   {
     "title": "8 МАРТА",
@@ -4191,8 +3959,7 @@
     "quality": "proof",
     "diameter": 45,
     "series": "Монета-подарок",
-    "packaging": "-",
-    "id": 284
+    "packaging": "-"
   },
   {
     "title": "ТАЙҚАЗАН",
@@ -4206,8 +3973,7 @@
     "quality": "proof",
     "diameter": 0,
     "series": "Сокровища степи",
-    "packaging": "-",
-    "id": 283
+    "packaging": "-"
   },
   {
     "title": "АМИР ТИМУР",
@@ -4221,8 +3987,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Великие полководцы",
-    "packaging": "-",
-    "id": 282
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ-2016. БАСКЕТБОЛ",
@@ -4236,8 +4001,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 281
+    "packaging": "-"
   },
   {
     "title": "БУРАН",
@@ -4251,8 +4015,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 280
+    "packaging": "-"
   },
   {
     "title": "Ш. АЙМАНОВ. 100 ЛЕТ",
@@ -4266,8 +4029,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Люди",
-    "packaging": "-",
-    "id": 279
+    "packaging": "-"
   },
   {
     "title": "АНА",
@@ -4281,8 +4043,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "От сердца к сердцу",
-    "packaging": "-",
-    "id": 278
+    "packaging": "-"
   },
   {
     "title": "СIРКО",
@@ -4296,8 +4057,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 277
+    "packaging": "-"
   },
   {
     "title": "ПОДСНЕЖНИК",
@@ -4311,8 +4071,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 276
+    "packaging": "-"
   },
   {
     "title": "ЛЕБЕДЬ-КЛИКУН",
@@ -4326,8 +4085,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 275
+    "packaging": "-"
   },
   {
     "title": "СIРКО",
@@ -4341,8 +4099,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 274
+    "packaging": "-"
   },
   {
     "title": "ГОД ОВЦЫ",
@@ -4356,8 +4113,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 273
+    "packaging": "-"
   },
   {
     "title": "ГОД ОВЦЫ",
@@ -4371,8 +4127,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 272
+    "packaging": "-"
   },
   {
     "title": "ШОКАН",
@@ -4386,8 +4141,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 271
+    "packaging": "-"
   },
   {
     "title": "КОКПАР",
@@ -4401,8 +4155,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 270
+    "packaging": "-"
   },
   {
     "title": "МАНУЛ",
@@ -4416,8 +4169,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 269
+    "packaging": "-"
   },
   {
     "title": "КОКПАР",
@@ -4431,8 +4183,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 268
+    "packaging": "-"
   },
   {
     "title": "ШОКАН",
@@ -4446,8 +4197,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Портреты на банкнотах",
-    "packaging": "-",
-    "id": 267
+    "packaging": "-"
   },
   {
     "title": "МАНУЛ",
@@ -4461,8 +4211,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 266
+    "packaging": "-"
   },
   {
     "title": "ТӨБЕТ",
@@ -4476,8 +4225,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 265
+    "packaging": "-"
   },
   {
     "title": "Т. ШЕВЧЕНКО. 200 ЛЕТ",
@@ -4491,8 +4239,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Люди",
-    "packaging": "-",
-    "id": 264
+    "packaging": "-"
   },
   {
     "title": "Т. ШЕВЧЕНКО. 200 ЛЕТ",
@@ -4506,8 +4253,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 263
+    "packaging": "-"
   },
   {
     "title": "ЧЕМПИОНАТ МИРА ПО ФУТБОЛУ В БРАЗИЛИИ. FIFA 2014",
@@ -4521,8 +4267,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 262
+    "packaging": "-"
   },
   {
     "title": "ЖЫЛҚЫ ЖЫЛЫ",
@@ -4536,8 +4281,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 261
+    "packaging": "-"
   },
   {
     "title": "ЖЫЛҚЫ ЖЫЛЫ",
@@ -4551,8 +4295,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 260
+    "packaging": "-"
   },
   {
     "title": "АЛМА ОТАНЫ",
@@ -4566,8 +4309,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 259
+    "packaging": "-"
   },
   {
     "title": "ШУРАЛЕ",
@@ -4581,8 +4323,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 258
+    "packaging": "-"
   },
   {
     "title": "КАСПИЙСКИЙ ТЮЛЕНЬ",
@@ -4596,8 +4337,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 257
+    "packaging": "-"
   },
   {
     "title": "ШУРАЛЕ",
@@ -4611,8 +4351,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 256
+    "packaging": "-"
   },
   {
     "title": "ТАРАЗ",
@@ -4626,8 +4365,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 255
+    "packaging": "-"
   },
   {
     "title": "ТАЛДЫКОРГАН",
@@ -4641,8 +4379,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 254
+    "packaging": "-"
   },
   {
     "title": "КОСТАНАЙ",
@@ -4656,8 +4393,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 253
+    "packaging": "-"
   },
   {
     "title": "МКС (МЕЖДУНАРОДНАЯ КОСМИЧЕСКАЯ СТАНЦИЯ)",
@@ -4671,8 +4407,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 252
+    "packaging": "-"
   },
   {
     "title": "МКС (МЕЖДУНАРОДНАЯ КОСМИЧЕСКАЯ СТАНЦИЯ)",
@@ -4686,8 +4421,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 251
+    "packaging": "-"
   },
   {
     "title": "ЧЕМПИОНАТ МИРА ПО БОКСУ. АЛМАТЫ 2013",
@@ -4701,8 +4435,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 250
+    "packaging": "-"
   },
   {
     "title": "20 ЛЕТ ТЕНГЕ",
@@ -4716,8 +4449,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 249
+    "packaging": "-"
   },
   {
     "title": "20 ЛЕТ ТЕНГЕ",
@@ -4731,8 +4463,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 248
+    "packaging": "-"
   },
   {
     "title": "20 ЛЕТ ТЕНГЕ",
@@ -4746,8 +4477,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 247
+    "packaging": "-"
   },
   {
     "title": "20 ЛЕТ ТЕНГЕ",
@@ -4761,8 +4491,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 246
+    "packaging": "-"
   },
   {
     "title": "10 ЛЕТ СЪЕЗДУ ЛИДЕРОВ МИРОВЫХ И ТРАДИЦИОННЫХ РЕЛИГИЙ",
@@ -4776,8 +4505,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "События",
-    "packaging": "-",
-    "id": 245
+    "packaging": "-"
   },
   {
     "title": "КОЛОБОК",
@@ -4791,8 +4519,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 244
+    "packaging": "-"
   },
   {
     "title": "АЛДАР-КОСЕ",
@@ -4806,8 +4533,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 243
+    "packaging": "-"
   },
   {
     "title": "ДЛИННОИГЛЫЙ ЕЖ",
@@ -4821,8 +4547,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 242
+    "packaging": "-"
   },
   {
     "title": "ДЛИННОИГЛЫЙ ЕЖ",
@@ -4836,8 +4561,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 241
+    "packaging": "-"
   },
   {
     "title": "БАЙТУРРАХМАН",
@@ -4851,8 +4575,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 240
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ-2016. ПРЫЖКИ С ШЕСТОМ",
@@ -4866,8 +4589,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 239
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2014. ХОККЕЙ С ШАЙБОЙ",
@@ -4881,8 +4603,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 238
+    "packaging": "-"
   },
   {
     "title": "МАГЖАН ЖУМАБАЕВ. 120 ЛЕТ",
@@ -4896,8 +4617,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 237
+    "packaging": "-"
   },
   {
     "title": "СУЙИНДИР",
@@ -4911,8 +4631,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 236
+    "packaging": "-"
   },
   {
     "title": "АРҚАР",
@@ -4926,8 +4645,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 235
+    "packaging": "-"
   },
   {
     "title": "СУЙИНДИР",
@@ -4941,8 +4659,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 234
+    "packaging": "-"
   },
   {
     "title": "МУКАН ТУЛЕБАЕВ. 100 ЛЕТ",
@@ -4956,8 +4673,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 233
+    "packaging": "-"
   },
   {
     "title": "ТАМҒАЛЫ ПЕТРОГЛИФТЕРІ (ТАМПОМӨР)",
@@ -4971,8 +4687,7 @@
     "quality": "proof",
     "diameter": 40.1,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 232
+    "packaging": "-"
   },
   {
     "title": "ТАМҒАЛЫ ПЕТРОГЛИФТЕРІ (АЛТЫНДАТУ)",
@@ -4986,8 +4701,7 @@
     "quality": "proof",
     "diameter": 31,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 231
+    "packaging": "-"
   },
   {
     "title": "СУЛТАН БЕЙБАРС",
@@ -5001,8 +4715,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Великие полководцы",
-    "packaging": "-",
-    "id": 230
+    "packaging": "-"
   },
   {
     "title": "20 ЛЕТ ДКБ И 10 ЛЕТ ОДКБ",
@@ -5016,8 +4729,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "События",
-    "packaging": "-",
-    "id": 229
+    "packaging": "-"
   },
   {
     "title": "БЕЛЫЙ АИСТ",
@@ -5031,8 +4743,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 228
+    "packaging": "-"
   },
   {
     "title": "ГОД ЗМЕИ",
@@ -5046,8 +4757,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 227
+    "packaging": "-"
   },
   {
     "title": "БҰЛАН. БАСТЫРМА",
@@ -5061,8 +4771,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 226
+    "packaging": "-"
   },
   {
     "title": "ГОД ЗМЕИ",
@@ -5076,8 +4785,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 225
+    "packaging": "-"
   },
   {
     "title": "АТЫРАУ",
@@ -5091,8 +4799,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 224
+    "packaging": "-"
   },
   {
     "title": "АКТАУ",
@@ -5106,8 +4813,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 223
+    "packaging": "-"
   },
   {
     "title": "ПАВЛОДАР",
@@ -5121,8 +4827,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 222
+    "packaging": "-"
   },
   {
     "title": "ФИЛИН",
@@ -5136,8 +4841,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 221
+    "packaging": "-"
   },
   {
     "title": "БАРС",
@@ -5151,8 +4855,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 220
+    "packaging": "-"
   },
   {
     "title": "БОГОМОЛ",
@@ -5166,8 +4869,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 219
+    "packaging": "-"
   },
   {
     "title": "БОГОМОЛ",
@@ -5181,8 +4883,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 218
+    "packaging": "-"
   },
   {
     "title": "ФАЙЗАЛ",
@@ -5196,8 +4897,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 217
+    "packaging": "-"
   },
   {
     "title": "ЗАХИР",
@@ -5211,8 +4911,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 216
+    "packaging": "-"
   },
   {
     "title": "БАЙҚОҢЫР",
@@ -5226,8 +4925,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 215
+    "packaging": "-"
   },
   {
     "title": "ТУШКАНЧИК",
@@ -5241,8 +4939,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 214
+    "packaging": "-"
   },
   {
     "title": "КОЛОБОК",
@@ -5256,8 +4953,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 213
+    "packaging": "-"
   },
   {
     "title": "КОСМИЧЕСКАЯ СТАНЦИЯ «МИР»",
@@ -5271,8 +4967,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 212
+    "packaging": "-"
   },
   {
     "title": "КОСМИЧЕСКАЯ СТАНЦИЯ «МИР»",
@@ -5286,8 +4981,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 211
+    "packaging": "-"
   },
   {
     "title": "ПРАЗДНИК НАУРЫЗ",
@@ -5301,8 +4995,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 210
+    "packaging": "-"
   },
   {
     "title": "ПРАЗДНИК НАУРЫЗ",
@@ -5316,8 +5009,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 209
+    "packaging": "-"
   },
   {
     "title": "Д.А. КУНАЕВ. 100 ЛЕТ",
@@ -5331,8 +5023,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Люди",
-    "packaging": "-",
-    "id": 208
+    "packaging": "-"
   },
   {
     "title": "Д.А. КУНАЕВ. 100 ЛЕТ",
@@ -5346,8 +5037,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 207
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2014. КОНЬКОБЕЖНЫЙ СПОРТ",
@@ -5361,8 +5051,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 206
+    "packaging": "-"
   },
   {
     "title": "ГОД ДРАКОНА",
@@ -5376,8 +5065,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 205
+    "packaging": "-"
   },
   {
     "title": "ГОД ДРАКОНА",
@@ -5391,8 +5079,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 204
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 20 ЛЕТ",
@@ -5406,8 +5093,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 203
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 20 ЛЕТ",
@@ -5421,8 +5107,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 202
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 20 ЛЕТ",
@@ -5436,8 +5121,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 201
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 20 ЛЕТ",
@@ -5451,8 +5135,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 200
+    "packaging": "-"
   },
   {
     "title": "БҰЛАННЫҢ БАСЫ",
@@ -5466,8 +5149,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 199
+    "packaging": "-"
   },
   {
     "title": "КАРАГАНДА",
@@ -5481,8 +5163,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 198
+    "packaging": "-"
   },
   {
     "title": "АЙТЫС",
@@ -5496,8 +5177,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 197
+    "packaging": "-"
   },
   {
     "title": "АЙТЫС",
@@ -5511,8 +5191,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 196
+    "packaging": "-"
   },
   {
     "title": "ЕСІК КӨСЕМІ",
@@ -5526,8 +5205,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Достояние Республики",
-    "packaging": "-",
-    "id": 195
+    "packaging": "-"
   },
   {
     "title": "УСТЬ-КАМЕНОГОРСК",
@@ -5541,8 +5219,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 194
+    "packaging": "-"
   },
   {
     "title": "АЛДАР-КӨСЕ",
@@ -5556,8 +5233,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Сказки народа Казахстана",
-    "packaging": "-",
-    "id": 193
+    "packaging": "-"
   },
   {
     "title": "ТАДЖ-УЛ-МАСДЖИД",
@@ -5571,8 +5247,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 192
+    "packaging": "-"
   },
   {
     "title": "ОМАР АЛИ САЙФУДДИН",
@@ -5586,8 +5261,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 191
+    "packaging": "-"
   },
   {
     "title": "МОХАММЕД АЛИ",
@@ -5601,8 +5275,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 190
+    "packaging": "-"
   },
   {
     "title": "ОСЕТР",
@@ -5616,8 +5289,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 189
+    "packaging": "-"
   },
   {
     "title": "АКТОБЕ",
@@ -5631,8 +5303,7 @@
     "quality": "uncirculated",
     "diameter": 23,
     "series": "Города Казахстана",
-    "packaging": "-",
-    "id": 188
+    "packaging": "-"
   },
   {
     "title": "ҚАРШЫҒА РЕҢДІ ЖАПАЛАҚ",
@@ -5646,8 +5317,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 187
+    "packaging": "-"
   },
   {
     "title": "ЯСТРЕБИНАЯ СОВА",
@@ -5661,8 +5331,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 186
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2012. ТЯЖЕЛАЯ АТЛЕТИКА",
@@ -5676,8 +5345,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 185
+    "packaging": "-"
   },
   {
     "title": "ҚОЯН ЖЫЛЫ",
@@ -5691,8 +5359,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 184
+    "packaging": "-"
   },
   {
     "title": "ПЕРВЫЙ КОСМОНАВТ",
@@ -5706,8 +5373,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 183
+    "packaging": "-"
   },
   {
     "title": "10-ЛЕТИЕ ШАНХАЙСКОЙ ОРГАНИЗАЦИИ СОТРУДНИЧЕСТВА",
@@ -5721,8 +5387,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "События",
-    "packaging": "-",
-    "id": 182
+    "packaging": "-"
   },
   {
     "title": "ПЕРВЫЙ КОСМОНАВТ",
@@ -5736,8 +5401,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 181
+    "packaging": "-"
   },
   {
     "title": "ҚОЯН ЖЫЛЫ",
@@ -5751,8 +5415,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Восточный календарь",
-    "packaging": "-",
-    "id": 180
+    "packaging": "-"
   },
   {
     "title": "ТОМИРИС",
@@ -5766,8 +5429,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Великие полководцы",
-    "packaging": "-",
-    "id": 179
+    "packaging": "-"
   },
   {
     "title": "КАРАКАЛ",
@@ -5781,8 +5443,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Разные серебряные монеты",
-    "packaging": "-",
-    "id": 178
+    "packaging": "-"
   },
   {
     "title": "БҰҒЫЛАР. ӘШЕКЕЙЛЕР",
@@ -5796,8 +5457,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 177
+    "packaging": "-"
   },
   {
     "title": "СУЛТАН",
@@ -5811,8 +5471,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 176
+    "packaging": "-"
   },
   {
     "title": "КУПОЛ СКАЛЫ",
@@ -5826,8 +5485,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 175
+    "packaging": "-"
   },
   {
     "title": "КААБА",
@@ -5841,8 +5499,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 174
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2012. ВОЛЬНАЯ БОРЬБА",
@@ -5856,8 +5513,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 173
+    "packaging": "-"
   },
   {
     "title": "10 ЛЕТ ЕВРАЗЭС",
@@ -5871,8 +5527,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "События",
-    "packaging": "-",
-    "id": 172
+    "packaging": "-"
   },
   {
     "title": "7-Е ЗИМНИЕ АЗИАТСКИЕ ИГРЫ",
@@ -5886,8 +5541,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "7-е зимние Азиатские игры 2011 года",
-    "packaging": "-",
-    "id": 171
+    "packaging": "-"
   },
   {
     "title": "7-Е ЗИМНИЕ АЗИАТСКИЕ ИГРЫ",
@@ -5901,8 +5555,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "7-е зимние Азиатские игры 2011 года",
-    "packaging": "-",
-    "id": 170
+    "packaging": "-"
   },
   {
     "title": "7-Е ЗИМНИЕ АЗИАТСКИЕ ИГРЫ",
@@ -5916,8 +5569,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "7-е зимние Азиатские игры 2011 года",
-    "packaging": "-",
-    "id": 169
+    "packaging": "-"
   },
   {
     "title": "7-Е ЗИМНИЕ АЗИАТСКИЕ ИГРЫ",
@@ -5931,8 +5583,7 @@
     "quality": "proof",
     "diameter": 13.92,
     "series": "7-е зимние Азиатские игры 2011 года",
-    "packaging": "-",
-    "id": 168
+    "packaging": "-"
   },
   {
     "title": "УШАСТАЯ КРУГЛОГОЛОВКА",
@@ -5946,8 +5597,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 167
+    "packaging": "-"
   },
   {
     "title": "ОТАУ КОТЕРУ",
@@ -5961,8 +5611,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 166
+    "packaging": "-"
   },
   {
     "title": "ЛУНОХОД -1",
@@ -5976,8 +5625,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 165
+    "packaging": "-"
   },
   {
     "title": "ОТАУ КОТЕРУ",
@@ -5991,8 +5639,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 164
+    "packaging": "-"
   },
   {
     "title": "ЛУНОХОД -1",
@@ -6006,8 +5653,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 163
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «КУРМЕТ» (ЗНАК)",
@@ -6021,8 +5667,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 162
+    "packaging": "-"
   },
   {
     "title": "МАК ДИКОРАСТУЩИЙ",
@@ -6036,8 +5681,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Растительный мир Казахстана",
-    "packaging": "-",
-    "id": 161
+    "packaging": "-"
   },
   {
     "title": "БҰЙРА БІРҚАЗАН",
@@ -6051,8 +5695,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 160
+    "packaging": "-"
   },
   {
     "title": "КУДРЯВЫЙ ПЕЛИКАН",
@@ -6066,8 +5709,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 159
+    "packaging": "-"
   },
   {
     "title": "СВЯТИЛИЩЕ БЕКЕТ-АТА",
@@ -6081,8 +5723,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Мечети и соборы Казахстана",
-    "packaging": "-",
-    "id": 158
+    "packaging": "-"
   },
   {
     "title": "БАРС",
@@ -6096,8 +5737,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Разные серебряные монеты",
-    "packaging": "-",
-    "id": 157
+    "packaging": "-"
   },
   {
     "title": "65 ЛЕТ ВЕЛИКОЙ ПОБЕДЕ",
@@ -6111,8 +5751,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 156
+    "packaging": "-"
   },
   {
     "title": "БАРС",
@@ -6126,8 +5765,7 @@
     "quality": "proof",
     "diameter": "32",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 155
+    "packaging": "-"
   },
   {
     "title": "БАРС",
@@ -6141,8 +5779,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Разные серебряные монеты",
-    "packaging": "-",
-    "id": 154
+    "packaging": "-"
   },
   {
     "title": "ТИГР",
@@ -6156,8 +5793,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Разные серебряные монеты",
-    "packaging": "-",
-    "id": 153
+    "packaging": "-"
   },
   {
     "title": "ЧЕМПИОНАТ МИРА ПО ФУТБОЛУ В ЮАР FIFA 2010",
@@ -6171,8 +5807,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 152
+    "packaging": "-"
   },
   {
     "title": "ФЛАМИНГО",
@@ -6186,8 +5821,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 151
+    "packaging": "-"
   },
   {
     "title": "АЛПАМЫС БАТЫР",
@@ -6201,8 +5835,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Разные серебряные монеты",
-    "packaging": "-",
-    "id": 150
+    "packaging": "-"
   },
   {
     "title": "ТИГР",
@@ -6216,8 +5849,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 149
+    "packaging": "-"
   },
   {
     "title": "ДИКОБРАЗ",
@@ -6231,8 +5863,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 148
+    "packaging": "-"
   },
   {
     "title": "ДИКОБРАЗ",
@@ -6246,8 +5877,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 147
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2010. БИАТЛОН",
@@ -6261,8 +5891,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Спорт",
-    "packaging": "-",
-    "id": 146
+    "packaging": "-"
   },
   {
     "title": "АТТИЛА",
@@ -6276,8 +5905,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Великие полководцы",
-    "packaging": "-",
-    "id": 145
+    "packaging": "-"
   },
   {
     "title": "ТУЛЕУ БАСЕНОВ. 100 ЛЕТ",
@@ -6291,8 +5919,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 144
+    "packaging": "-"
   },
   {
     "title": "БАЛХАШСКИЙ ТИГР",
@@ -6306,8 +5933,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Разные серебряные монеты",
-    "packaging": "-",
-    "id": 143
+    "packaging": "-"
   },
   {
     "title": "БЕТАШАР",
@@ -6321,8 +5947,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 142
+    "packaging": "-"
   },
   {
     "title": "МЕЧЕТЬ НУР-АСТАНА",
@@ -6336,8 +5961,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Мечети и соборы Казахстана",
-    "packaging": "-",
-    "id": 141
+    "packaging": "-"
   },
   {
     "title": "БЕТАШАР",
@@ -6351,8 +5975,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 140
+    "packaging": "-"
   },
   {
     "title": "БАРС",
@@ -6366,8 +5989,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 139
+    "packaging": "-"
   },
   {
     "title": "МОНЕТА АЛМАТЫ",
@@ -6381,8 +6003,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Монеты старых чеканов",
-    "packaging": "-",
-    "id": 138
+    "packaging": "-"
   },
   {
     "title": "КОШАЧИЙ ХИЩНИК С ОЛЕНЯМИ",
@@ -6396,8 +6017,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 137
+    "packaging": "-"
   },
   {
     "title": "КОШАЧИЙ ХИЩНИК С ОЛЕНЯМИ",
@@ -6411,8 +6031,7 @@
     "quality": "proof",
     "diameter": "11",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 136
+    "packaging": "-"
   },
   {
     "title": "ЖАЛАУЛИНСКИЙ КЛАД",
@@ -6426,8 +6045,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 135
+    "packaging": "-"
   },
   {
     "title": "ЖАЛАУЛИНСКИЙ КЛАД",
@@ -6441,8 +6059,7 @@
     "quality": "proof",
     "diameter": "11",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 134
+    "packaging": "-"
   },
   {
     "title": "САТИР",
@@ -6456,8 +6073,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 133
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2010. ПРЫЖКИ С ТРАМПЛИНА",
@@ -6471,8 +6087,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 132
+    "packaging": "-"
   },
   {
     "title": "АЛМАТИНСКИЙ АПОРТ",
@@ -6486,8 +6101,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Растительный мир Казахстана",
-    "packaging": "-",
-    "id": 131
+    "packaging": "-"
   },
   {
     "title": "СОЮЗ-АПОЛЛОН",
@@ -6501,8 +6115,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 130
+    "packaging": "-"
   },
   {
     "title": "СОЮЗ-АПОЛЛОН",
@@ -6516,8 +6129,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 129
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «ДОСТЫҚ» (ЗВЕЗДА)",
@@ -6531,8 +6143,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 128
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «ПАРАСАТ»",
@@ -6546,8 +6157,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 127
+    "packaging": "-"
   },
   {
     "title": "МОНЕТА САРАЙЧИКА",
@@ -6561,8 +6171,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Монеты старых чеканов",
-    "packaging": "-",
-    "id": 126
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «АЙБЫН»",
@@ -6576,8 +6185,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 125
+    "packaging": "-"
   },
   {
     "title": "15 ЛЕТ ТЕНГЕ",
@@ -6591,8 +6199,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 124
+    "packaging": "-"
   },
   {
     "title": "15 ЛЕТ ТЕНГЕ",
@@ -6606,8 +6213,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 123
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «ДАНК (ЗВЕЗДА)",
@@ -6621,8 +6227,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 122
+    "packaging": "-"
   },
   {
     "title": "КОСМИЧЕСКИЙ КОРАБЛЬ «ВОСТОК»",
@@ -6636,8 +6241,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 121
+    "packaging": "-"
   },
   {
     "title": "КОСМИЧЕСКИЙ КОРАБЛЬ «ВОСТОК»",
@@ -6651,8 +6255,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 120
+    "packaging": "-"
   },
   {
     "title": "ЖАРКЕНТСКАЯ МЕЧЕТЬ",
@@ -6666,8 +6269,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Мечети и соборы Казахстана",
-    "packaging": "-",
-    "id": 119
+    "packaging": "-"
   },
   {
     "title": "БАБОЧКА АЛЕКСАНОР",
@@ -6681,8 +6283,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Флора и фауна Казахстана",
-    "packaging": "-",
-    "id": 118
+    "packaging": "-"
   },
   {
     "title": "ҚЫЗ ҚУУ",
@@ -6696,8 +6297,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 117
+    "packaging": "-"
   },
   {
     "title": "ДИАДЕМА БӨЛІГІ",
@@ -6711,8 +6311,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 116
+    "packaging": "-"
   },
   {
     "title": "«БЕЗ НАЗВАНИЯ» С. КАЛМЫКОВ",
@@ -6726,8 +6325,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Художники Казахстана. Графики.",
-    "packaging": "-",
-    "id": 115
+    "packaging": "-"
   },
   {
     "title": "ҚЫЗ ҚУУ",
@@ -6741,8 +6339,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 114
+    "packaging": "-"
   },
   {
     "title": "ЛЕН ОЛЬГИ",
@@ -6756,8 +6353,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Растительный мир Казахстана",
-    "packaging": "-",
-    "id": 113
+    "packaging": "-"
   },
   {
     "title": "РЫСЬ",
@@ -6771,8 +6367,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 112
+    "packaging": "-"
   },
   {
     "title": "ТЯНЬ-ШАНСКИЙ БУРЫЙ МЕДВЕДЬ",
@@ -6786,8 +6381,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 111
+    "packaging": "-"
   },
   {
     "title": "ТЯНЬ-ШАНСКИЙ БУРЫЙ МЕДВЕДЬ",
@@ -6801,8 +6395,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 110
+    "packaging": "-"
   },
   {
     "title": "СТОЛИЦЫ СТРАН ЕВРАЗЭС. АСТАНА",
@@ -6816,8 +6409,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Юбилейные даты Астаны",
-    "packaging": "-",
-    "id": 109
+    "packaging": "-"
   },
   {
     "title": "АСТАНА. 10 ЛЕТ",
@@ -6831,8 +6423,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Юбилейные даты Астаны",
-    "packaging": "-",
-    "id": 108
+    "packaging": "-"
   },
   {
     "title": "АСТАНА. 10 ЛЕТ",
@@ -6846,8 +6437,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Юбилейные даты Астаны",
-    "packaging": "-",
-    "id": 107
+    "packaging": "-"
   },
   {
     "title": "ЧИНГИЗ-ХАН",
@@ -6861,8 +6451,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Великие полководцы",
-    "packaging": "-",
-    "id": 106
+    "packaging": "-"
   },
   {
     "title": "ОРЛИНОГОЛОВЫЙ ГРИФОН",
@@ -6876,8 +6465,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 105
+    "packaging": "-"
   },
   {
     "title": "ФАЙЗАЛ. ИСЛАМАБАД",
@@ -6891,8 +6479,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 104
+    "packaging": "-"
   },
   {
     "title": "БАЙТУРРАХМАН",
@@ -6906,8 +6493,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 103
+    "packaging": "-"
   },
   {
     "title": "ЗАХИР",
@@ -6921,8 +6507,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 102
+    "packaging": "-"
   },
   {
     "title": "ХОДЖА АХМЕТ ЯССАУИ. ТУРКЕСТАН",
@@ -6936,8 +6521,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 101
+    "packaging": "-"
   },
   {
     "title": "АЛЬ-НАБАВИ",
@@ -6951,8 +6535,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 100
+    "packaging": "-"
   },
   {
     "title": "АЛЬ-ХАРАМ",
@@ -6966,8 +6549,7 @@
     "quality": "proof",
     "diameter": "16",
     "series": "Знаменитые мечети мира",
-    "packaging": "-",
-    "id": 99
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2008. ПЯТИБОРЬЕ",
@@ -6981,8 +6563,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 98
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2008. ПРЫЖКИ В ВЫСОТУ",
@@ -6996,8 +6577,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Спорт",
-    "packaging": "-",
-    "id": 97
+    "packaging": "-"
   },
   {
     "title": "МОНЕТА ОТРАРА",
@@ -7011,8 +6591,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Монеты старых чеканов",
-    "packaging": "-",
-    "id": 96
+    "packaging": "-"
   },
   {
     "title": "ТҰСАУ КЕСУ",
@@ -7026,8 +6605,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 95
+    "packaging": "-"
   },
   {
     "title": "ЖҮЗІК",
@@ -7041,8 +6619,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 94
+    "packaging": "-"
   },
   {
     "title": "ЭДЕЛЬВЕЙС",
@@ -7056,8 +6633,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Растительный мир Казахстана",
-    "packaging": "-",
-    "id": 93
+    "packaging": "-"
   },
   {
     "title": "«МИФ» М. КИСАМЕДИНОВ",
@@ -7071,8 +6647,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Художники Казахстана. Графики.",
-    "packaging": "-",
-    "id": 92
+    "packaging": "-"
   },
   {
     "title": "БЛАГОРОДНЫЙ ОЛЕНЬ. РАВНИНА ТЕРЕКТЫ",
@@ -7086,8 +6661,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 91
+    "packaging": "-"
   },
   {
     "title": "ТҰСАУ КЕСУ",
@@ -7101,8 +6675,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 90
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «ОТАН»",
@@ -7116,8 +6689,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 89
+    "packaging": "-"
   },
   {
     "title": "КОЛПИЦА",
@@ -7131,8 +6703,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 88
+    "packaging": "-"
   },
   {
     "title": "КОЛПИЦА",
@@ -7146,8 +6717,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 87
+    "packaging": "-"
   },
   {
     "title": "КАФЕДРАЛЬНЫЙ СОБОР (АЛМАТЫ)",
@@ -7161,8 +6731,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Мечети и соборы Казахстана",
-    "packaging": "-",
-    "id": 86
+    "packaging": "-"
   },
   {
     "title": "ПЕРВЫЙ ИСКУССТВЕННЫЙ СПУТНИК ЗЕМЛИ",
@@ -7176,8 +6745,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 85
+    "packaging": "-"
   },
   {
     "title": "ПЕРВЫЙ ИСКУССТВЕННЫЙ СПУТНИК ЗЕМЛИ",
@@ -7191,8 +6759,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 84
+    "packaging": "-"
   },
   {
     "title": "КОСМОС",
@@ -7206,8 +6773,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Космос",
-    "packaging": "-",
-    "id": 83
+    "packaging": "-"
   },
   {
     "title": "«ЯБЛОКИ АЛМАТЫ» Е. СИДОРКИН",
@@ -7221,8 +6787,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Художники Казахстана. Графики.",
-    "packaging": "-",
-    "id": 82
+    "packaging": "-"
   },
   {
     "title": "КОСМОС",
@@ -7236,8 +6801,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Космос",
-    "packaging": "-",
-    "id": 81
+    "packaging": "-"
   },
   {
     "title": "БЕСIККЕ САЛУ",
@@ -7251,8 +6815,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 80
+    "packaging": "-"
   },
   {
     "title": "ЦЕНТРАЛЬНАЯ МЕЧЕТЬ (АЛМАТЫ)",
@@ -7266,8 +6829,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Мечети и соборы Казахстана",
-    "packaging": "-",
-    "id": 79
+    "packaging": "-"
   },
   {
     "title": "БЕСIККЕ САЛУ",
@@ -7281,8 +6843,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Обряды, национальные игры Казахстана",
-    "packaging": "-",
-    "id": 78
+    "packaging": "-"
   },
   {
     "title": "ДЕКАБРЬСКИМ СОБЫТИЯМ 1986 ГОДА 20 ЛЕТ",
@@ -7296,8 +6857,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 77
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2008. БОКС",
@@ -7311,8 +6871,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 76
+    "packaging": "-"
   },
   {
     "title": "ТЮЛЬПАН РЕГЕЛЯ",
@@ -7326,8 +6885,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Растительный мир Казахстана",
-    "packaging": "-",
-    "id": 75
+    "packaging": "-"
   },
   {
     "title": "ДИРХЕМ",
@@ -7341,8 +6899,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Монеты старых чеканов",
-    "packaging": "-",
-    "id": 74
+    "packaging": "-"
   },
   {
     "title": "ШАБАНДОЗ",
@@ -7356,8 +6913,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 73
+    "packaging": "-"
   },
   {
     "title": "АЛТАЙСКИЙ УЛАР",
@@ -7371,8 +6927,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 72
+    "packaging": "-"
   },
   {
     "title": "АХМЕТ ЖУБАНОВ. 100 ЛЕТ",
@@ -7386,8 +6941,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 71
+    "packaging": "-"
   },
   {
     "title": "АЛТАЙСКИЙ УЛАР",
@@ -7401,8 +6955,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 70
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «АЛТЫН ҚЫРАН» (ЗВЕЗДА)",
@@ -7416,8 +6969,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 69
+    "packaging": "-"
   },
   {
     "title": "ОРДЕН «АЛТЫН ҚЫРАН» (ЗНАК)",
@@ -7431,8 +6983,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Государственные награды",
-    "packaging": "-",
-    "id": 68
+    "packaging": "-"
   },
   {
     "title": "КОЛЕСНИЦА. УРОЧИЩЕ АРПАУЗЕНЬ",
@@ -7446,8 +6997,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 67
+    "packaging": "-"
   },
   {
     "title": "КРАСНЫЙ ВОЛК",
@@ -7461,8 +7011,7 @@
     "quality": "proof",
     "diameter": "25",
     "series": "Животный мир",
-    "packaging": "-",
-    "id": 66
+    "packaging": "-"
   },
   {
     "title": "АДЫРНА",
@@ -7476,8 +7025,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Прикладное искусство",
-    "packaging": "-",
-    "id": 65
+    "packaging": "-"
   },
   {
     "title": "ДЖЕЙРАН",
@@ -7491,8 +7039,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 64
+    "packaging": "-"
   },
   {
     "title": "МАВЗОЛЕЙ ЖОШИ-ХАНА",
@@ -7506,8 +7053,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 63
+    "packaging": "-"
   },
   {
     "title": "ЖОЛБАРЫСТЫҢ БАСЫ",
@@ -7521,8 +7067,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 62
+    "packaging": "-"
   },
   {
     "title": "КОННЫЙ ВСАДНИК. ГОРА АЙРАКТЫ",
@@ -7536,8 +7081,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 61
+    "packaging": "-"
   },
   {
     "title": "ДРАХМА",
@@ -7551,8 +7095,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Монеты старых чеканов",
-    "packaging": "-",
-    "id": 60
+    "packaging": "-"
   },
   {
     "title": "КОНСТИТУЦИИ КАЗАХСТАНА 10 ЛЕТ",
@@ -7566,8 +7109,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 59
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2006. ЛЫЖНЫЙ СПОРТ",
@@ -7581,8 +7123,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 58
+    "packaging": "-"
   },
   {
     "title": "60 ЛЕТ ВЕЛИКОЙ ПОБЕДЕ",
@@ -7596,8 +7137,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 57
+    "packaging": "-"
   },
   {
     "title": "АЛЬКЕЙ МАРГУЛАН. 100 ЛЕТ",
@@ -7611,8 +7151,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 56
+    "packaging": "-"
   },
   {
     "title": "ЖЕТЫГЕН",
@@ -7626,8 +7165,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Прикладное искусство",
-    "packaging": "-",
-    "id": 55
+    "packaging": "-"
   },
   {
     "title": "ДЕНЬГА",
@@ -7641,8 +7179,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Монеты старых чеканов",
-    "packaging": "-",
-    "id": 54
+    "packaging": "-"
   },
   {
     "title": "КАМЕННЫЕ ИЗВАЯНИЯ",
@@ -7656,8 +7193,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 53
+    "packaging": "-"
   },
   {
     "title": "АЛТЫН БҰҒЫ",
@@ -7671,8 +7207,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Золото номадов",
-    "packaging": "-",
-    "id": 52
+    "packaging": "-"
   },
   {
     "title": "ДРЕВНИЙ ТУРКЕСТАН",
@@ -7686,8 +7221,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 51
+    "packaging": "-"
   },
   {
     "title": "МАРКО ПОЛО",
@@ -7701,8 +7235,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 50
+    "packaging": "-"
   },
   {
     "title": "ЦАРЬ КРЕСС",
@@ -7716,8 +7249,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 49
+    "packaging": "-"
   },
   {
     "title": "ЦАРЬ МИДАС",
@@ -7731,8 +7263,7 @@
     "quality": "proof",
     "diameter": "13.92",
     "series": "Самые маленькие монеты мира",
-    "packaging": "-",
-    "id": 48
+    "packaging": "-"
   },
   {
     "title": "ТАМГАЛЫТАС. МЫСЛИТЕЛЬ",
@@ -7746,8 +7277,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 47
+    "packaging": "-"
   },
   {
     "title": "ОЛИМПИЙСКИЕ ИГРЫ 2004. ВЕЛОСИПЕДИСТЫ",
@@ -7761,8 +7291,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 46
+    "packaging": "-"
   },
   {
     "title": "ЧЕМПИОНАТ МИРА ПО ФУТБОЛУ В ГЕРМАНИИ 2006 ГОДА",
@@ -7776,8 +7305,7 @@
     "quality": "proof",
     "diameter": 38.61,
     "series": "Спорт",
-    "packaging": "-",
-    "id": 45
+    "packaging": "-"
   },
   {
     "title": "ЖЕЛЕЗНОЙ ДОРОГЕ КАЗАХСТАНА 100 ЛЕТ",
@@ -7791,8 +7319,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
-    "packaging": "-",
-    "id": 44
+    "packaging": "-"
   },
   {
     "title": "АБИЛЬХАН КАСТЕЕВ. 100 ЛЕТ",
@@ -7806,8 +7333,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 43
+    "packaging": "-"
   },
   {
     "title": "СОКОЛ БАЛОБАН",
@@ -7821,8 +7347,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 42
+    "packaging": "-"
   },
   {
     "title": "АСА ТАЯК",
@@ -7836,8 +7361,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Прикладное искусство",
-    "packaging": "-",
-    "id": 41
+    "packaging": "-"
   },
   {
     "title": "МАВЗОЛЕЙ АЙША-БИБИ",
@@ -7851,8 +7375,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 40
+    "packaging": "-"
   },
   {
     "title": "10 ЛЕТ ТЕНГЕ (ГОСУДАРСТВЕННЫЙ ФЛАГ)",
@@ -7866,8 +7389,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 39
+    "packaging": "-"
   },
   {
     "title": "10 ЛЕТ ТЕНГЕ (ГОСУДАРСТВЕННЫЙ ГЕРБ)",
@@ -7881,8 +7403,7 @@
     "quality": "proof",
     "diameter": 50,
     "series": "Национальная валюта Республики Казахстан",
-    "packaging": "-",
-    "id": 38
+    "packaging": "-"
   },
   {
     "title": "МАХАМБЕТ УТЕМИСОВ. 200 ЛЕТ",
@@ -7896,8 +7417,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 37
+    "packaging": "-"
   },
   {
     "title": "ДРОФА",
@@ -7911,8 +7431,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 36
+    "packaging": "-"
   },
   {
     "title": "ОЙ-ЖАЙЛАУ. ТЮРКСКИЙ ВОИН",
@@ -7926,8 +7445,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 35
+    "packaging": "-"
   },
   {
     "title": "АРХАР",
@@ -7941,8 +7459,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 34
+    "packaging": "-"
   },
   {
     "title": "ДОМБЫРА",
@@ -7956,8 +7473,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Прикладное искусство",
-    "packaging": "-",
-    "id": 33
+    "packaging": "-"
   },
   {
     "title": "ГАБИДЕН МУСТАФИН. 100 ЛЕТ",
@@ -7971,8 +7487,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 32
+    "packaging": "-"
   },
   {
     "title": "БЕЛГИ. ТАНБАЛЫ",
@@ -7986,8 +7501,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 31
+    "packaging": "-"
   },
   {
     "title": "МАВЗОЛЕЙ БАБАЖИ-ХАТУН",
@@ -8001,8 +7515,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 30
+    "packaging": "-"
   },
   {
     "title": "ГАБИТ МУСРЕПОВ. 100 ЛЕТ",
@@ -8016,8 +7529,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 29
+    "packaging": "-"
   },
   {
     "title": "САЙГАК",
@@ -8031,8 +7543,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 28
+    "packaging": "-"
   },
   {
     "title": "УМАЙ. ГОРНЫЙ АЛТАЙ",
@@ -8046,8 +7557,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 27
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 10 ЛЕТ",
@@ -8061,8 +7571,7 @@
     "quality": "proof",
     "diameter": 100,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 26
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 10 ЛЕТ",
@@ -8076,8 +7585,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 25
+    "packaging": "-"
   },
   {
     "title": "ЗОЛОТОЙ ЧЕЛОВЕК",
@@ -8091,8 +7599,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 24
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 10 ЛЕТ",
@@ -8106,8 +7613,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 23
+    "packaging": "-"
   },
   {
     "title": "НАРКОБЫЗ",
@@ -8121,8 +7627,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Прикладное искусство",
-    "packaging": "-",
-    "id": 22
+    "packaging": "-"
   },
   {
     "title": "СНЕЖНЫЙ БАРС",
@@ -8136,8 +7641,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Красная книга Казахстана",
-    "packaging": "-",
-    "id": 21
+    "packaging": "-"
   },
   {
     "title": "СОЛЯРНОЕ БОЖЕСТВО. ТАМГАЛЫТАС",
@@ -8151,8 +7655,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Петроглифы Казахстана",
-    "packaging": "-",
-    "id": 20
+    "packaging": "-"
   },
   {
     "title": "ТУРКЕСТАН. 1500 ЛЕТ",
@@ -8166,8 +7669,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 19
+    "packaging": "-"
   },
   {
     "title": "ТУРКЕСТАН. 1500 ЛЕТ",
@@ -8181,8 +7683,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 18
+    "packaging": "-"
   },
   {
     "title": "ТУРКЕСТАН. 1500 ЛЕТ",
@@ -8196,8 +7697,7 @@
     "quality": "proof",
     "diameter": "21.87",
     "series": "Архитектурные и исторические памятники",
-    "packaging": "-",
-    "id": 17
+    "packaging": "-"
   },
   {
     "title": "САБИТ МУКАНОВ. 100 ЛЕТ",
@@ -8211,8 +7711,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 16
+    "packaging": "-"
   },
   {
     "title": "ВЕЛИКОЙ ПОБЕДЕ 55 ЛЕТ",
@@ -8226,8 +7725,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 15
+    "packaging": "-"
   },
   {
     "title": "РУБЕЖ ТЫСЯЧЕЛЕТИЙ",
@@ -8241,8 +7739,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
-    "packaging": "-",
-    "id": 14
+    "packaging": "-"
   },
   {
     "title": "МИЛЛЕНИУМ",
@@ -8256,8 +7753,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 13
+    "packaging": "-"
   },
   {
     "title": "КАНЫШ САТПАЕВ. 100 ЛЕТ",
@@ -8271,8 +7767,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 12
+    "packaging": "-"
   },
   {
     "title": "НОВАЯ СТОЛИЦА КАЗАХСТАНА – АСТАНА",
@@ -8286,8 +7781,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Юбилейные даты Астаны",
-    "packaging": "-",
-    "id": 11
+    "packaging": "-"
   },
   {
     "title": "МУХТАР АУЭЗОВ. 100 ЛЕТ",
@@ -8301,8 +7795,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 10
+    "packaging": "-"
   },
   {
     "title": "ГОД СОГЛАСИЯ И ПАМЯТИ",
@@ -8316,8 +7809,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 9
+    "packaging": "-"
   },
   {
     "title": "НЕЗАВИСИМОСТИ КАЗАХСТАНА 5 ЛЕТ",
@@ -8331,8 +7823,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Независимость Республики Казахстан",
-    "packaging": "-",
-    "id": 8
+    "packaging": "-"
   },
   {
     "title": "ЖАМБЫЛ ЖАБАЕВ. 150-ЛЕТ",
@@ -8346,8 +7837,7 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "Люди",
-    "packaging": "-",
-    "id": 7
+    "packaging": "-"
   },
   {
     "title": "МАТЬ",
@@ -8361,8 +7851,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Серия монет посвященных 150-летию Абая Кунанбаева",
-    "packaging": "-",
-    "id": 6
+    "packaging": "-"
   },
   {
     "title": "МЕДРЕСЕ",
@@ -8376,8 +7865,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Серия монет посвященных 150-летию Абая Кунанбаева",
-    "packaging": "-",
-    "id": 5
+    "packaging": "-"
   },
   {
     "title": "БЕРКУТЧИ",
@@ -8391,8 +7879,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Серия монет посвященных 150-летию Абая Кунанбаева",
-    "packaging": "-",
-    "id": 4
+    "packaging": "-"
   },
   {
     "title": "ЛЮБОВЬ",
@@ -8406,8 +7893,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Серия монет посвященных 150-летию Абая Кунанбаева",
-    "packaging": "-",
-    "id": 3
+    "packaging": "-"
   },
   {
     "title": "КОЧЕВЬЕ",
@@ -8421,8 +7907,7 @@
     "quality": "proof",
     "diameter": 37,
     "series": "Серия монет посвященных 150-летию Абая Кунанбаева",
-    "packaging": "-",
-    "id": 2
+    "packaging": "-"
   },
   {
     "title": "ОРГАНИЗАЦИЯ ОБЪЕДИНЁННЫХ НАЦИЙ. 50 ЛЕТ",
@@ -8436,7 +7921,6 @@
     "quality": "uncirculated",
     "diameter": 31,
     "series": "События",
-    "packaging": "-",
-    "id": 1
+    "packaging": "-"
   }
 ]
