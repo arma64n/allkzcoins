@@ -1,19 +1,5 @@
 [
   {
-    "title": "Zn (цинк)",
-    "title_ru": "Zn (цинк)",
-    "circulation": 2000,
-    "metal": "Ag 925",
-    "price": 0,
-    "prod_date": "2025-12-30",
-    "weight": 32.5,
-    "nominal": 1000,
-    "quality": "black-proof",
-    "diameter": 38.61,
-    "series": "Недра Казахстана",
-    "packaging": "-"
-  },
-  {
     "title": "MERCURY",
     "title_ru": "МЕРКУРИЙ",
     "circulation": 1000,
@@ -67,6 +53,20 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
+    "packaging": "-"
+  },
+  {
+    "title": "Zn (цинк)",
+    "title_ru": "Zn (цинк)",
+    "circulation": 2000,
+    "metal": "Ag 925",
+    "price": 49000,
+    "prod_date": "2026-01-20",
+    "weight": 32.5,
+    "nominal": 1000,
+    "quality": "black-proof",
+    "diameter": 38.61,
+    "series": "Недра Казахстана",
     "packaging": "-"
   },
   {
@@ -898,7 +898,7 @@
   {
     "title": "KÓKBÓRI 2023",
     "title_ru": "KÓKBÓRI 2023",
-    "circulation": 0,
+    "circulation": 100,
     "metal": "Ag 999",
     "price": 24816,
     "prod_date": "2024-03-06",
