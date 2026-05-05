@@ -1,19 +1,5 @@
 [
   {
-    "title": "FIFA WORLD CUP 2026",
-    "title_ru": "FIFA WORLD CUP 2026",
-    "circulation": 2000,
-    "metal": "Ag 925",
-    "price": 0,
-    "prod_date": "2026-04-07",
-    "weight": 20,
-    "nominal": 1000,
-    "quality": "proof",
-    "diameter": 37,
-    "series": "Спорт",
-    "packaging": "-"
-  },
-  {
     "title": "ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ПАРЛАМЕНТІНЕ 30 ЖЫЛ",
     "title_ru": "ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ПАРЛАМЕНТІНЕ 30 ЖЫЛ",
     "circulation": 1000,
@@ -25,6 +11,20 @@
     "quality": "proof",
     "diameter": 37,
     "series": "События",
+    "packaging": "-"
+  },
+  {
+    "title": "FIFA WORLD CUP 2026",
+    "title_ru": "FIFA WORLD CUP 2026",
+    "circulation": 2000,
+    "metal": "Ag 925",
+    "price": 29000,
+    "prod_date": "2026-05-05",
+    "weight": 20,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 37,
+    "series": "Спорт",
     "packaging": "-"
   },
   {
