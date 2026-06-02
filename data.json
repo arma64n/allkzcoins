@@ -28,6 +28,48 @@
     "packaging": "-"
   },
   {
+    "title": "E. SERKEBAEV. 100 JYL",
+    "title_ru": "Е. СЕРКЕБАЕВ. 100 ЛЕТ",
+    "circulation": 7000,
+    "metal": "мельхиор",
+    "price": 1500,
+    "prod_date": "2026-05-28",
+    "weight": 15,
+    "nominal": 200,
+    "quality": "brilliant uncirculated",
+    "diameter": 33,
+    "series": "Люди",
+    "packaging": "Блистер"
+  },
+  {
+    "title": "AINALAIYN",
+    "title_ru": "АЙНАЛАЙЫН",
+    "circulation": 3000,
+    "metal": "Ag 925",
+    "price": 1500,
+    "prod_date": "2026-05-28",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 38.61,
+    "series": "От сердца к сердцу",
+    "packaging": "-"
+  },
+  {
+    "title": "AINALAIYN",
+    "title_ru": "АЙНАЛАЙЫН",
+    "circulation": 10000,
+    "metal": "мельхиор",
+    "price": 40000,
+    "prod_date": "2026-05-28",
+    "weight": 15,
+    "nominal": 200,
+    "quality": "brilliant uncirculated",
+    "diameter": 33,
+    "series": "От сердца к сердцу",
+    "packaging": "Блистер"
+  },
+  {
     "title": "FIFA WORLD CUP 2026",
     "title_ru": "FIFA WORLD CUP 2026",
     "circulation": 2000,
