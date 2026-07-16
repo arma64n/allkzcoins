@@ -14,6 +14,48 @@
     "packaging": "-"
   },
   {
+    "title": "35 лет СНГ",
+    "title_ru": "35 лет СНГ",
+    "circulation": 1000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2026-07-20",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 38.61,
+    "series": "События",
+    "packaging": "-"
+  },
+  {
+    "title": "SYǴANAQ",
+    "title_ru": "СЫГАНАК",
+    "circulation": 1000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2026-07-20",
+    "weight": 24,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 37,
+    "series": "Древние города Казахстана",
+    "packaging": "-"
+  },
+  {
+    "title": "BURABAY",
+    "title_ru": "БУРАБАЙ",
+    "circulation": 2000,
+    "metal": "Ag 925",
+    "price": 0,
+    "prod_date": "2026-07-20",
+    "weight": 31.1,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 0,
+    "series": "Природные жемчужины Казахстана",
+    "packaging": "-"
+  },
+  {
     "title": "ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ПАРЛАМЕНТІНЕ 30 ЖЫЛ",
     "title_ru": "ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ПАРЛАМЕНТІНЕ 30 ЖЫЛ",
     "circulation": 1000,
@@ -169,7 +211,7 @@
   },
   {
     "title": "OTYRAR",
-    "title_ru": "OTYRAR",
+    "title_ru": "ОТРАР",
     "circulation": 2000,
     "metal": "Ag 925",
     "price": 32000,
