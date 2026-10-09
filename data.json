@@ -14,6 +14,20 @@
     "packaging": "-"
   },
   {
+    "title": "Nb (ниобий)",
+    "title_ru": "Nb (ниобий)",
+    "circulation": 1000,
+    "metal": "Ag 925",
+    "price": 53000,
+    "prod_date": "2026-10-12",
+    "weight": 32.8,
+    "nominal": 1000,
+    "quality": "proof",
+    "diameter": 38.61,
+    "series": "Недра Казахстана",
+    "packaging": "-"
+  },
+  {
     "title": "Қозы Көрпеш – Баян Сұлу",
     "title_ru": "Қозы Көрпеш – Баян Сұлу",
     "circulation": 7000,
